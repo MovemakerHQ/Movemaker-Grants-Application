@@ -1,0 +1,134 @@
+1. Company / Project name
+SOFA.org
+
+2. Official Links (Website, GitHub, LinkedIn, etc.)
+WEBSITE: https://sofa.org
+DAPP: https://dapp.sofa.org
+X: https://x.com/SOFAorgDAO
+DOCS: https://docs.sofa.org
+TELEGRAM: http://t.me/SOFAorg
+DISCORD: https://discord.gg/sofaorg
+BLOG: https://blog.sofa.org
+GITHUB: https://github.com/sofa-org
+LINKEDIN: https://www.linkedin.com/company/sofa-org/
+
+3. Your name
+Fay
+
+4. Email Address
+fay.lin@sofa.org
+
+5. Telegram or Wechat of POC
+TG: @sofafay
+
+6. Which funding category are you applying for? (AI, DeFi, DePIN, Developer Education&Ecosystem, Tooling, Infrastructure, RWA, Payment, Others)
+DeFi
+
+7. Product Stage (Idea, MVP/Prototype/PoC, Business Model Validation, Early Adopters, Product Market Fit)
+Product Market Fit
+
+8. Introduction to your project. (Please include a clear overview of what your project is and why this is something that you want to work on.)
+SOFA is a decentralized, open-source DAO dedicated to building a trustless DeFi ecosystem that enables atomic settlement of financial assets on the blockchain. Its initial focus is on crypto structured products, allowing users to generate real, sustainable and on-demand yields under any market scenarios through volatility harvesting, supporting multiple token deposits with full principal return even in adverse scenarios.
+
+The recently launched tool "Automator" empowers users to create custom on-chain option trading strategies, significantly lowering the barrier to offering option products at scale.
+
+SOFA is backed by leading DeFi builders and crypto platforms, including OKX Ventures, HashKey Capital, SignalPlus, Galaxy, Chainlink, SNZ, and others.
+Live Products: SOFA has launched Earn, Surge and Automator vaults catering to varying risk profiles.
+Key Features:
+- First Powerful DeFi Protocol for Structured Products
+- Real, sustainable yield driven by market factors like volatility
+- Full principal protection, even in adverse market scenarios
+- 100% on-chain asset custody with zero counterparty risk
+- On-demand pricing with instantaneous execution
+- Innovative ERC-1155 vault design enabling collateral re-pledging across CeFi and DeFi protocols
+- 100% fair-launched $RCH utility token with a buyback-and-burn mechanism driven by protocol earnings
+
+9. What problem are you trying to solve, and why is it important?
+SOFA is positioning itself as the first derivatives settlement layer on-chain, with the ambitious goal of becoming the crypto equivalent of traditional clearing houses like CME or LCH. We are dedicated to creating a trustless DeFi ecosystem that enables atomic settlement of financial assets via blockchain technology.
+The organization's first protocol will focus on crypto structured products, enabling seamless execution between depositors and market makers through a ready-made dAPP and standardized vaults.
+
+Key Problems Addressed/ Solutions:
+1)Lack of Real Yield Generating Financial Products On-Chain
+Current Solutions & Shortcomings:
+- ERC-20 tokens contain limited instrument data
+- Lack of options-market infrastructure on-chain
+- Fragmented DoV and option protocol solutions
+- Poor execution pricing and rigid user experience (epochs, auctions, single dealer)
+- Option protocols rely on centralized, off-chain hubs for handling complex operations
+
+SOFA's approach:
+- Introduces a variety of TradFi structured products on our dAPP market place
+- Provide "real and sustainable" yield for defi users (rather than pure tokenomics)
+- Pricing is competitive through external market makers & a 24/7 RFQ system
+- Support multiple tokens to generate yield
+- Users maintain full product customization and final execution decision
+- Deploys ERC-1155 standard with instrument parameters clearly transcribed on smart-contract level
+- Zero counterparty risks as deposits are locked on-chain regardless of who you are trading against
+
+2)DeFi Capital Inefficiency (Protocol Locked Funds)
+Current Solutions & Shortcomings:
+- DeFi loan protocols
+SOFA's approach:
+- Authentic 'position risk tokens' (ERC-1155) can be re-pledged and accepted by both CeFi and DeFi platforms as a secure claim on the SOFA-locked assets (ie: can be collateral/margin for users to do more transactions on DEX/CEX)
+- Risk tokens can be easily priced and valued thanks to their data parameters being transcribed on smart contract level
+
+3)Market Making and Illiquidity Fragementation
+
+Current Solutions & Shortcomings:
+- AMM solutions work poorly for Options due to product complexity
+- Significant liquidity fragmentation with option and structured product based protocols doing their own things
+- DeFi users have to DD each protocol individually, leading to low participation
+- Market makers might not be interested to write dApps and smart contract vaults; Developers might not be interested to be market makers
+SOFA's approach:
+- SOFA has developed an open access dAPP where MMs have access to an open API to connect straight to the platform, with an automated vault settlement downstream
+- Single protocol to handle all the settlement and downstream operations - stakeholders can participate on product design and competitive pricing
+- Protocol is designed to be extensible to other defi protocols such as staking & lending platforms
+
+10. What is your proposed solution?
+Answered above.
+
+11. Any competitions? (Does your project have direct competition or similar project on the market within or without apples ecosystem?)
+We are not aware of any comparable protocols in the industry.
+
+There have been a number of DOVs that have attempted to bring structured products to DeFi, but none with the degree of openness we have provided on the market making support, user customization, standard defining settlement work.
+Certainly there are no comparables with our 100% fair launch token and immense DAO partner support.
+
+12. Why Aptos？
+Aptos offers the high performance, scalability, and growing DeFi ecosystem that perfectly fits SOFA’s structured financial products. Its parallel execution engine, low latency, and strong support for stablecoins like USDC make it ideal for SOFA’s real-time RFQ, pricing, and settlement needs.
+
+Meanwhile SOFA Protocol is designed to be a value-add to Aptos, expanding the network’s financial product offerings and deepening user engagement:
+- Introducing Advanced Yield-Enhanced Structured Products: SOFA brings sophisticated, yield-enhancing protocols designed for USDT, USDC, and other crypto assets. This product suite will attract both retail and institutional users, driving increased TVL and user activity on Aptos.
+- Bridging TradFi and DeFi: SOFA is actively working on integrating with regulated financial institutions to offer on-chain structured products. This creates a bridge between traditional finance and the Aptos DeFi ecosystem, bringing regulated, institutional-grade products on-chain — a unique value proposition.
+- Boosting Liquidity and DeFi Depth: By providing secure, innovative yield products, SOFA helps position Aptos as a go-to destination for sophisticated DeFi operations. This not only grows user participation and liquidity but also encourages the development of complementary protocols and services, strengthening the Aptos DeFi stack.
+- Institutional-Ready Infrastructure: SOFA’s 100% on-chain platform aligns with Aptos’s vision of scalability and reliability, providing a strong use case for institutional adoption within the eocsystem.
+
+13. Team Background. For any other founder's involved in the project, please list their full name, title, LinkedIn URL, and a brief history (age, education, work/startup experience, previous projects, etc.)
+14. If you have multiple founders, how did you meet?
+Kai (Co-Founder / CTO) is an experienced Web3 engineer. Since joining web3 in 2018, he has significantly contributed to the development of public blockchain, wallet, and mining pool. Kai specializes in decentralized exchanges (DEX), stablecoin protocols, and leveraged finance platforms, having been a core developer for notable DeFi projects like Equalizer and Smoothy. Additionally, he is actively involved in community education and blockchain infrastructure development.
+https://www.linkedin.com/in/jishankai/
+Augustine (Co-Founder) is an experienced professional with over two decades of distinctive commercial track records across Wall Street, Family Offices, Private Equity, and Crypto industries. Before embarking on with his current leadership efforts at SOFA.org, he served as Partner & CFO of SignalPlus, a leading digital asset software technology company. Prior to joining crypto, Augustine spent over 10 years at Goldman Sachs as a macro rates trader across the firm's NY, London, Tokyo, and HK offices. Following his time on Wall Street, he spent the next 8 years as a CIO and capital allocator for a couple of HK-based Family Offices, expanding his business acumen to cover PE, VC, real estate, and specialized co-investment deals across a wide spectrum of frontier assets.
+https://www.linkedin.com/in/augustine-fan-9a4802141/
+Fay (Partner) has 10 years of experience in the financial market. Her expertise covers a wide range of products, from Structured Notes to Securitized Products with a successful track record in client coverage and product management. Her blend of traditional expertise and keen interest in cutting-edge areas marks her as a standout professional in the web3 sector.
+https://www.linkedin.com/in/fay-lin-3b4a5235/
+
+15. How many projects have you worked on together?How are responsibilities divided among the founders?
+Kai (Co-Founder / CTO) is 100% committed to SOFA. With extensive experience in blockchain and DeFi protocol development since 2018, Kai is responsible for overall technical architecture, smart contract development, and product delivery.
+Augustine (Co-Founder) focuses on strategy, ecosystem partnerships, and institutional relationships. With over two decades of experience across Wall Street, family offices, and the crypto industry, he also provides advisory support to a few other projects but remains actively involved in driving SOFA’s business development.
+Fay (Partner) primarily oversees product design, marketing strategy, and business development.
+
+16. Is the founding team committed full-time to this project? If not, please explain any other commitments and how much time each founder currently spends on the project.
+Among the founding team, Kai is fully dedicated to SOFA on a full-time basis. He is responsible for overall technical architecture, smart contract development, and product delivery. Augustine currently allocates around 70% of his time to the project, focusing on strategy, ecosystem partnerships, and institutional relationships. Fay dedicates approximately 60% of her time to SOFA, primarily overseeing product design, marketing strategy, and business development.
+The team is committed to scaling their involvement as the project grows, with full-time technical leadership in place to ensure continuous product development and delivery.
+
+17. Where are the founders based?
+Hong Kong and Singapore
+
+18. Budget proposal with milestones (The grant amount is usually 10k~50k. Please set up your budget proposal with milestones and estimated completion time.)
+Deployed on Aptos	10K USDT equivalent
+1mio TVL    5K USDT equivalent
+5mio TVL    15K USDT equivalent
+20mio TVL   20K USDT equivalent
+50mio TVL   50K USDT equivalent
+
+19. Does the core team need office space support from Aptos Space (HK)?
+NO.
