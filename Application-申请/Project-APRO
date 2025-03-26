@@ -1,0 +1,52 @@
+1. APRO Oracle
+2. 网站：https://www.apro.com/
+GitHub：https://github.com/APRO-Oracle
+Twitter：https://twitter.com/APRO_Oracle
+3. sara
+4. sara@apro.com
+5. saralili1
+6. AI Agent Infra & DeFi Oracle
+7. 产品阶段
+8. attps： ATTPs (AgentText Transfer Protocol Secure) is a novel protocol framework designed to enable secure, verifiable data exchange between AI agents. By implementing
+a multi-layered verification mechanism incorporating zero-knowledge proofs, Merkle trees, and blockchain consensus protocols, ATTPs establishes a trustworthy communication infrastructure for the emerging AI agent ecosystem.
+9. ATTPs 解决的问题：以分布式的方式解决中间人攻击（篡改，投毒） 问题，保障 AI Agents 之间的数据传递安全 
+10. AI Oracle 解决的问题： LLMs 无法 access 实时的可信的信息/数据，ai oracle 来为他们提供例如 喂价 的 data feed，类比 defi oracle。
+11. 没有
+12. APRO 在行业内率先定义和实践打通了全流程 Crypto x AI Data Transfer &  Secure 服务
+13. Co-founder&CEO LEO SU
+        Product-Driven
+        Experienced in Monagng Moture Product Growth Teams:8 Yeen Apro
+        Orude-The Best User Experience Oracle
+
+       Technical Director SIMON
+       Senior Technical&Security Leader
+       6 years blockchain
+
+14. Founders met through an introduction by an investor
+15. CEO负责业务整体，Technical Director负责产研部分
+16. 全职
+17. Singapore
+18. 第一期(2024年12月): 基础设施构建 （已完成）
+第二期(2025年1-3月)：生态扩展 （30k）
+SDK开发(1月)：
+SDK开发
+   首要任务是构建三个主要编程语言(Python、Golang和Rust)的SDK库。每个SDK都需要实现完整的功能集，包括Agent生命周期管理（注册、过期、renew、注销）、数据签名、verifier合约交互等核心功能。同时，我们需要编写详细的文档和使用示例，帮助开发者快速上手。
+
+多链支持和平台升级(2月)：
+多链支持
+    Manager Contract的多链部署是一项具有挑战性的工作。我们需要在保持核心功能一致性的同时，适配不同公链的特性。对于非EVM链(如Solana)，需要重新实现智能合约逻辑。跨链通信的实现采用IBC协议，确保不同链上的Manager Contract能够安全地交换信息。
+
+安全升级(3月)：
+    这个月的工作重点是实现零知识证明(ZKP)系统和共识机制的升级。我们将使用zk-SNARK构建零知识证明电路，主要用于验证数据的完整性和推理过程的可验证性。电路的设计需要考虑计算效率和证明大小的平衡，同时要确保安全性。我们会开发专门的电路编译工具，简化电路的开发和测试过程。
+
+第三期(2025年4-5月)：去中心化升级 （20k）
+ 网络和数据去中心化
+    这个阶段的首要任务是实现完整的质押系统。我们采用双Token质押模型，要求验证者同时质押BTC和APRO Token。质押规则需要仔细设计，既要保证网络的安全性，又要提供足够的经济激励。我们将实现动态调整的质押收益率，根据网络的运行状况和市场环境进行自动调整。同时，惩罚机制也需要更加完善，能够有效处理各种违规行为，如双重签名、离线等情况。
+
+ 治理机制
+    我们将建立完整的DAO治理体系，包括提案系统、投票机制和自动执行系统。所有重要的系统参数都需要通过社区治理来决定，如手续费率、质押规则、惩罚标准等。投票权重将与质押量挂钩，同时引入二次方投票等机制来提高治理的公平性。我们还需要实现自动化的提案执行系统，确保社区决策能够得到准确且及时的执行。该系统可以用 event feed source agent和 Dao gov target agent 来自动化实施。
+
+开放平台建设
+    开放平台的建设同样重要。我们需要设计和实现完整的开发者门户，包括文档中心、API控制台、数据分析面板等功能。接口的访问控制和计费系统是一个复杂的工程，需要实现精确的用量统计、灵活的计费策略和自动化的结算流程。我们将采用预付费模式，允许开发者购买不同级别的访问套餐，同时提供按量计费的选项。
+
+19. 需要
