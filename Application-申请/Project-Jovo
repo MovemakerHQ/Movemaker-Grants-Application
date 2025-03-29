@@ -1,0 +1,82 @@
+1. Company / Project Name
+Jovo.IO - Authentick PTE Ltd.
+
+2. Official Links (Website, GitHub, LinkedIn, etc.)
+- Website: jovo.io
+- GitHub: Available upon request (not public)
+- LinkedIn:
+  - Boyko Draganov: linkedin.com/in/boykod/
+  - Jeff Herzbach: linkedin.com/in/jeff-herzbach-5476813/
+  - Orkhan Zeynalli: linkedin.com/in/orkhanz/
+- Twitter: x.com/jovo_io
+- TikTok: tiktok.com/@jovo_io
+- Pitch Deck: https://drive.google.com/file/d/1sjGQN4hO0DBpNP64RT--a1qB8Ae4P4t2/view?usp=sharing
+
+3. Your Name
+Boyko Draganov
+
+4. Email Address
+jovo@0xlabs.tech
+
+5. Telegram or WeChat of POC
+@Cox_xyz 
+
+6. Which funding category are you applying for?
+Infrastructure (Jovo.IO builds infrastructure to integrate blockchain assets into retail systems)
+
+7. Product Stage
+Product Market Fit (Jovo.IO is live on 3 marketplaces, has integrated 2 chains with 10 more in the pipeline, and has recorded daily sales since December 2023)
+
+8. Introduction to your project
+Jovo.IO is a digital goods marketplace that bridges blockchain-based assets (NFTs, tokenized items) with existing retail ecosystems like online stores, marketplaces, and ERP systems. Based in Singapore and backed by a AAA financial partner, we aim to bring digital products to the 1 billion+ people not yet active in crypto by integrating with platforms like eBay, Lazada, and eventually Amazon, where people already shop. We started with a simple question—“Why can’t I buy Adidas NFTs where I buy Adidas shoes?”—and built a solution to make blockchain accessible without technical barriers. We’re live, growing, and passionate about expanding the crypto ecosystem.
+
+9. What problem are you trying to solve, and why is it important?
+The crypto ecosystem is limited to a niche audience due to technical complexity and fragmented infrastructure (wallets, exchanges, etc.). Over 1 billion people don’t interact with blockchain because it’s not where they already are—mainstream retail platforms. This restricts adoption and growth. Jovo.IO solves this by bringing digital goods to familiar marketplaces, eliminating the need for crypto-specific education or tools, and making blockchain accessible to a massive untapped audience.
+
+10. What is your proposed solution?
+Our solution is an infrastructure layer that integrates blockchain assets (starting with Ethereum and Polygon, expanding to Solana, Aptos, etc.) into retail systems like marketplaces, ERPs, and checkouts. We handle the technical complexity—APIs, wallet connections (e.g., WalletConnect), and cross-chain compatibility—so creators and brands can sell tokenized goods (e.g., NFTs) directly on platforms like eBay or Lazada. We also run targeted social media campaigns (e.g., TikTok) to drive adoption, leveraging our tech to connect 500M+ users to blockchain without them needing to leave their preferred shopping environments.
+
+11. Any competitions?
+Competitors include OpenSea, Amazon, and G2A. OpenSea is crypto-native but limited to its platform, requiring technical know-how. Amazon and G2A sell digital goods but lack blockchain integration. Jovo.IO stands out by bringing blockchain assets to existing retail ecosystems with zero customer education needed, offering a seamless, scalable solution that expands the crypto universe far beyond niche platforms.
+
+12. Why Aptos?
+Aptos offers a high-performance, scalable blockchain with a growing ecosystem, making it ideal for integrating digital goods into retail at scale. Its focus on developer tooling and infrastructure aligns with our mission to simplify blockchain access. By adding Aptos, we can tap into its innovative Move language and robust transaction capabilities, enhancing our cross-chain offerings and bringing Aptos-based assets to millions of non-crypto shoppers, boosting its adoption and visibility.
+
+13. Team Background
+- Boyko Draganov, CEO and Founder: 10+ years managing billion-dollar eCommerce sites, 30+ crypto investments. Based in Singapore.
+- Jeff Herzbach, Head of Technology: 20+ years in top-tier financial institutions, 5+ years in crypto. Based in Singapore.
+- Orkhan Zeynalli, Head of Engineering: Multiple CTO/Head of Engineering roles in tech, fintech, and crypto. Based in Singapore.
+- Louis Low, Commercial: 10 years in eCommerce (ex-Lazada VP). Based in Singapore.
+- Ryan Soh, Web3: Web3 native, experience launching NFT collections (e.g., ChainX). Based in Singapore.
+- Ji-Hyun Lee, Affiliate Marketing: 2 years at DBS Banking, 3 years at Lazada. Based in Singapore.
+
+14. If you have multiple founders, how did you meet?
+Only Boyko Draganov as the founder. Other team members are key hires, not co-founders. 
+
+15. How many projects have you worked on together? How are responsibilities divided among the founders?
+As Boyko is the sole listed founder, this is his first project with this team. Responsibilities:
+- Boyko (CEO): Vision, strategy, partnerships.
+- Jeff (Tech): Oversees technical infrastructure.
+- Orkhan (Eng): Leads engineering and blockchain integration.
+
+16. Is the founding team committed full-time to this project?
+Yes, Boyko Draganov and the core team (8 members) are fully committed.
+
+17. Where are the founders based?
+Singapore (Boyko Draganov and the core team operate from here).
+
+18. Budget proposal with milestones
+Requested Grant Amount: $200,000 (capped per Aptos guidelines)
+- Milestone 1: Integrate Aptos Blockchain ($100,000, 3 months)
+  - 25% HR ($25,000): Engineers to integrate Aptos APIs and test compatibility.
+  - 75% Infra ($75,000): AWS, Alchemy, and WalletConnect enhancements for Aptos.
+- Milestone 2: Launch Aptos Collection Campaign ($50,000, 2 months)
+  - 25% HR ($12,500): Marketing team to coordinate with creators.
+  - 75% Infra ($37,500): TikTok/social media ad spend for Aptos-based assets.
+- Milestone 3: Expand to New Marketplace with Aptos ($50,000, 3 months)
+  - 25% HR ($12,500): Engineers and commercial team for integration.
+  - 75% Infra ($37,500): Server costs and API updates for a new platform (e.g., Mercado Libre).
+Total Timeline: 8 months.
+
+19. Does the core team need office space support from Aptos Space (HK)?
+No, the team is based in Singapore and fully operational remotely and on-site there.
