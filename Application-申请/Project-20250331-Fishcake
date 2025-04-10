@@ -1,0 +1,110 @@
+## Please fill out your project details using this template and submit a PR. The naming format should be ​'Project-YYMMDD'.
+
+1. Company / Project name
+Company Name:Fishcake Inc.
+Project Name: Fishcake 
+
+2. Official Links (Website, GitHub, LinkedIn, etc.)
+Website:https://www.fishcake.org/
+Github: https://github.com/FishcakeLab/Fishcake-Tokenomics
+Jason An - CEO/Founder https://www.linkedin.com/in/jason-an-29128164
+Seek Guo - CTO - https://www.linkedin.com/in/seek-guo-46b4992bb
+Rakibul Husan Rana- CM - https://www.linkedin.com/in/mrkryptonbtc
+
+3. Your name
+Jason An
+
+4. Email Address
+fishcake@0xlabs.tech
+
+5. Telegram or Wechat of POC
+https://t.me/Fishcake_Labs
+
+6. Which funding category are you applying for? (AI, DeFi, DePIN, Developer Education&Ecosystem, Tooling, Infrastructure, RWA, Payment, Others)
+Others
+
+7. Product Stage (Idea, MVP/Prototype/PoC, Business Model Validation, Early Adopters, Product Market Fit)
+Early Adopters
+
+8. Introduction to your project. (Please include a clear overview of what your project is and why this is something that you want to work on.)
+Fishcake, a Web3 platform on Polygon that revolutionizes tokenized marketing and loyalty management. We empower businesses and event organizers to launch incentive-driven campaigns with transparent, blockchain-backed rewards—eliminating middlemen and simplifying Web3 adoption for everyday users. With a live app, 25,000+ community members, and $70,000+ USDT distributed, we’re bridging the gap between blockchain and real-world engagement.
+I’m passionate about this project because it solves real problems—high marketing costs, outdated rewards systems, and blockchain skepticism—by offering a seamless, rewarding entry point into Web3. It’s a chance to make decentralized technology practical and impactful for businesses and users alike, driving mass adoption one campaign at a time.
+
+9. What problem are you trying to solve, and why is it important?
+We’re tackling several key problems:
+High Marketing Costs & Inefficiency: Businesses struggle with expensive, intermediary-heavy marketing and loyalty programs that erode profits.
+Outdated Rewards Systems: Users are stuck with clunky, centralized reward models that lack transparency and real value.
+Blockchain Skepticism & Adoption Barriers: People hesitate to embrace Web3 due to complexity, lack of trust, and unclear real-world benefits.
+
+This is important because businesses need cost-effective, direct ways to engage customers, while users deserve modern, transparent rewards they can trust. Blockchain’s potential remains untapped without simple, practical use cases. Fishcake solves this by delivering a user-friendly, Web3-powered platform that cuts costs, builds trust, and makes decentralized tech accessible—driving adoption and real-world impact.
+
+10. What is your proposed solution?
+Our proposed solution is a Web3 platform on Polygon that simplifies tokenized marketing and loyalty management. We enable businesses and event organizers to launch AI-powered, incentive-driven campaigns with transparent, smart contract-backed rewards—no middlemen, no complexity. Users connect effortlessly, participate in real-world events, and earn instantly redeemable tokens and NFTs. By blending Web2 usability with blockchain trust, Fishcake cuts costs, boosts engagement, and bridges the gap between everyday life and the Web3 economy—making adoption seamless and rewarding for all.
+
+11. Any competitions? (Does your project have direct competition or similar project on the market within or without apples ecosystem?)
+Yes, we face competition. Direct competitors include:
+
+Luma & Meetup: Web2 event platforms lacking blockchain incentives.
+Groupon: Centralized deals platform with high fees, no Web3 integration.
+Galxe: Web3 engagement tool, crypto-native focus, limited real-world use.
+Blackbird: Web3 restaurant loyalty, narrower scope, acts as a middleman.
+Fishcake stands out with broader use cases, zero fees, and a Web2-friendly Web3 experience, bridging real-world and blockchain engagement better than these alternatives. No direct Apple ecosystem overlap, but we compete with loyalty apps broadly.
+
+12. Why Aptos？
+Aptos is a Layer-1 blockchain designed for scalability, security, and speed, making it ideal for real-world Web3 applications like ours. It boasts a theoretical throughput of over 160,000 transactions per second (TPS) thanks to its parallel execution engine (Block-STM), far surpassing many competitors—Polygon, for instance, averages 65 TPS. This speed could handle Fishcake’s growing volume of tokenized campaigns and smart contract interactions seamlessly.
+Its Move programming language, originally from Meta’s Diem project, enhances security with resource-specific controls, reducing vulnerabilities—a critical factor for Fishcake’s trust-based reward system. AptosBFT consensus also ensures reliability, tolerating up to 33% faulty validators, which aligns with our need for a robust, outage-resistant network.
+
+Additionally, Aptos offers low transaction fees (around $0.001272) and sub-second finality, making it cost-effective and user-friendly for businesses and everyday users—key to driving Fishcake’s mass adoption goals. Its modular design supports upgrades without downtime, offering flexibility as we scale.
+
+While Fishcake thrives on Polygon’s established ecosystem, Aptos’ performance and future-proof features make it a strong candidate for expansion, especially for onboarding millions into Web3 with minimal friction. It’s about building on a blockchain that matches our vision: fast, secure, and accessible.
+
+13. Team Background. For any other founder's involved in the project, please list their full name, title, LinkedIn URL, and a brief history (age, education, work/startup experience, previous projects, etc.)
+Jason An, CEO/Founder
+LinkedIn: https://www.linkedin.com/in/jason-an-29128164
+Age: ~35-40 (est.) | Education: Master of Science | Experience: 10+ years in project management, founded two startups (B2C sales, global trading), early blockchain investor, smart contract developer. Fishcake is my vision to bridge Web3 and real-world business.
+Seek Guo, CTO/Co-founder
+LinkedIn: https://www.linkedin.com/in/seek-guo-46b4992bb
+Age: ~30-35 (est.) | Education: N/A | Experience: Full-stack blockchain engineer, ex-technical leader at Mantle and Bybit, founded Dapplink (blockchain scalability). Leads Fishcake’s tech architecture.
+Rakibul Husan Rana, Community & Growth Lead
+LinkedIn: https://www.linkedin.com/in/mrkryptonbtc
+Age: ~25-30 (est.) | Education: N/A | Experience: Community manager for multiple blockchain projects, ex-Kucoin leader. Drives Fishcake’s user engagement and growth.
+Our small but skilled team, backed by advisors like Runhuan Feng and Mabel Oza, combines blockchain expertise, startup experience, and community-building to make Fishcake a Web3 success.
+
+14. If you have multiple founders, how did you meet?
+As Jason An, CEO of Fishcake, I’m one of the two founders alongside Seek Guo, our CTO. We met in early 2022 through a mutual connection in the blockchain community during a Web3 developer meetup in Singapore. I was exploring real-world blockchain use cases after my previous startup ventures, and Seek, with his deep technical expertise from Mantle and Bybit, was working on scalability solutions post-Dapplink. Our shared passion for simplifying Web3 adoption sparked collaboration, and by March 2023, we started building Fishcake together—combining my business vision with his technical prowess.
+
+15. How many projects have you worked on together?How are responsibilities divided among the founders?
+As Jason An, CEO of Fishcake, Seek Guo (CTO) and I have worked on one project together: Fishcake. This is our first joint venture, launched in March 2023, though we each bring experience from prior individual projects—my two startups and Seek’s Dapplink.
+
+Responsibility Division:
+Jason An (CEO/Founder): I oversee the strategic vision, business development, and ecosystem growth. My focus is on Tokenomics design, partnerships, fundraising, and ensuring Fishcake solves real-world problems for businesses and users.
+Seek Guo (CTO/Co-founder): Seek leads the technical backbone—blockchain architecture, smart contract development, and platform optimization. He ensures a secure, scalable, and seamless user experience, driving the engineering side of our Web3 vision.
+We complement each other: I handle the “why” and “how” of market fit, while Seek tackles the “what” and “how” of tech execution. It’s a clear split—business strategy versus technical innovation.
+
+16. Is the founding team committed full-time to this project? If not, please explain any other commitments and how much time each founder currently spends on the project.
+We both founders—myself and Seek Guo (CTO)—are committed full-time to Fishcake. We’ve been fully dedicated since March 2023, spending 60-80 hours per week each on the project. No other commitments currently divert our focus; Fishcake is our sole priority as we drive its growth and adoption.
+
+17. Where are the founders based?
+As Jason An, CEO of Fishcake, I’m based in Romeoville, Illinois, USA, where our legal entity, Fishcake Inc., is registered (256 S Oak Creek Ln, Romeoville, IL 60446). Seek Guo, our CTO, is based in Singapore, leveraging its vibrant Web3 ecosystem. We operate remotely, coordinating across time zones to drive Fishcake forward.
+
+18. Budget proposal with milestones (The grant amount is usually 10k~50k. Please set up your budget proposal with milestones and estimated completion time.)
+Milestone 1: Movemaker Blockchain Integration (25% - $12,500)
+Goal: Port Fishcake’s smart contracts and dApp to Movemaker.
+Tasks: Research Movemaker specs, adapt Solidity contracts, test initial deployment.
+Estimated Completion: Month 2 (May 31, 2025).
+Milestone 2: Platform Optimization & Testing (35% - $17,500, Total: $30,000)
+Goal: Optimize Fishcake for Movemaker’s performance, ensure seamless user experience.
+Tasks: Refine smart contracts, integrate APIs, conduct stress tests with 1,000+ events.
+Estimated Completion: Month 4 (July 31, 2025).
+Milestone 3: Launch & Adoption Push (40% - $20,000, Total: $50,000)
+Goal: Launch Fishcake on Movemaker, drive adoption with 50,000+ users.
+Tasks: Deploy live platform, run marketing campaigns, onboard 500+ events.
+Estimated Completion: Month 6 (September 30, 2025).
+Budget Allocation
+Development: $25,000 (50%) – Team expansion, coding, testing.
+Marketing: $15,000 (30%) – Campaigns, partnerships for adoption.
+Infrastructure & Legal: $10,000 (20%) – Movemaker fees, compliance.
+This plan ensures Fishcake leverages Movemaker’s capabilities within 6 months, boosting Web3 engagement efficiently.
+
+19. Does the core team need office space support from Aptos Space (HK)?
+Our core team does not currently need office space support from Aptos Space (HK). I’m based in Romeoville, Illinois, USA, and Seek Guo, our CTO, operates out of Singapore. Our six-member team works remotely, leveraging digital tools to collaborate effectively across time zones. While Seek is closer to Hong Kong geographically, he’s fully equipped to work from Singapore’s Web3 hub. For now, we’re good without physical office space—our focus is on development and adoption, not infrastructure. That said, we’d consider it later if scaling demands in-person collaboration in the region.

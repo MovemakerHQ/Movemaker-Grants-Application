@@ -1,0 +1,100 @@
+## Please fill out your project details using this template and submit a PR. The naming format should be ​'Project-YYMMDD'.
+
+1. Company / Project name
+Company and project name: AgentXYZ.
+
+2. Official Links (Website, GitHub, LinkedIn, etc.)
+	•	Website: https://www.agentxyz.io/
+	•	Ivor Viskovic - Founder & CEO - https://www.linkedin.com/in/ivor-viskovic/
+	•Sarfraz Nawaz - Co-founder & CTO - https://www.linkedin.com/in/sarfraz-nawaz-a0074014
+	•Andy Proffitt - CMO - https://www.linkedin.com/in/andy-proffitt-5802b11a8/
+	•Uddipan Dey - Tech Lead - https://www.linkedin.com/in/uddipan-dey/
+	
+3. Your name
+Ivor Viskovic
+
+4. Email Address
+agentxyz@0xlabs.tech
+
+5. Telegram or Wechat of POC
+https://t.me/agentxyzai
+
+6. Which funding category are you applying for? (AI, DeFi, DePIN, Developer Education&Ecosystem, Tooling, Infrastructure, RWA, Payment, Others)
+AI, DeFi
+
+7. Product Stage (Idea, MVP/Prototype/PoC, Business Model Validation, Early Adopters, Product Market Fit)
+Early Adopters
+
+8. Introduction to your project. (Please include a clear overview of what your project is and why this is something that you want to work on.)
+AgentXYZ, an AI-powered trading platform designed to revolutionize how traders navigate crypto and Web3 markets. Our platform integrates advanced technical analysis, real-time on-chain data, and social sentiment insights into a single, user-friendly terminal, empowering both novice and expert traders with precision-driven strategies. Backed by AI technologies like Open AI 4o and Deepseek R1, we simplify market complexity, reduce noise, and democratize access to intelligent trading tools.
+I’m passionate about this project because trading today is fragmented and overwhelming—traders juggle multiple tools, outdated methods, and noisy data, often missing opportunities. With my 9 years in marketing and a team of seasoned AI engineers and financial experts, we saw a chance to bridge human intuition with AI-driven analytics. AgentXYZ is my vision to make trading smarter, more efficient, and accessible, especially now as AI matures and the crypto bull market surges, creating the perfect moment to empower traders worldwide.
+
+9. What problem are you trying to solve, and why is it important?
+We’re tackling a critical problem: the inefficiency, complexity, and inaccessibility of trading in crypto and Web3 markets. Traders today face fragmented tools, overwhelming market noise, and a steep learning curve—relying on multiple platforms for technical analysis, on-chain data, social sentiment, and trade execution. This leads to missed opportunities, poor decision-making, and a barrier to entry for new traders, while even experts struggle to keep up with fast-moving markets.
+This problem is important because the crypto market’s growth—especially during this bull run—brings millions of traders seeking an edge, yet most lack the resources or expertise to succeed. Traditional tools are manual, static, and disjointed, failing to harness the full potential of blockchain data and AI. By solving this with AgentXYZ’s all-in-one, AI-powered trading platform, we’re not just simplifying trading—we’re leveling the playing field, boosting Web3 adoption, and empowering traders to make smarter, faster decisions. It’s a game-changer for an industry ripe for innovation.
+
+10. What is your proposed solution?
+Our proposed solution is a unified, AI-powered trading platform that simplifies and enhances the trading experience in crypto and Web3 markets. AgentXYZ integrates real-time technical analysis, on-chain data, and social sentiment into a single, seamless terminal, powered by advanced AI models like Open AI 4o and Deepseek R1. Our platform features:
+AI-Driven Insights: Deep learning and predictive analytics deliver actionable trading strategies, optimal entry/exit points, and risk management tools.
+All-in-One Ecosystem: Combines technical analysis, trade execution, social intelligence, and educational resources, eliminating the need for multiple tools.
+Noise Reduction: AI filters out irrelevant data, providing traders with clear, precise insights.
+Accessibility: User-friendly design and interactive AI assistance make advanced trading tools available to novices and experts alike.
+By consolidating fragmented workflows and leveraging AI, AgentXYZ empowers traders to navigate complex markets with confidence, efficiency, and precision—bridging the gap between human intuition and cutting-edge technology.
+
+11. Any competitions? (Does your project have direct competition or similar project on the market within or without apples ecosystem?)
+We face competition. Direct competitors like The Hive, DeFai DAO, and Moonberg offer AI-driven trading tools in the crypto space, though they’re fragmented—lacking our all-in-one approach combining technical analysis, on-chain data, and trading execution. Outside Apple’s ecosystem, platforms like Binance and Coinbase dominate with broader offerings, but they don’t focus on AI-powered trading assistance like we do. Within Apple’s ecosystem, no project matches our specific DeFAI focus yet, giving us a unique edge.
+
+12. Why Aptos？
+Aptos is a Layer-1 blockchain designed for speed, scalability, and security, making it a compelling choice for projects like ours. It uses the Move programming language, originally developed by Meta’s Diem team, which prioritizes safety and flexibility—perfect for secure, complex smart contracts that traders can trust. Its parallel execution engine (Block-STM) processes transactions simultaneously, not sequentially, aiming for a theoretical throughput of over 100,000 transactions per second. For AgentXYZ, this means faster trade execution and real-time insights, critical in volatile crypto markets.
+Aptos also offers low transaction costs and a modular design, allowing seamless upgrades without downtime—ideal for integrating our AI-driven tools and scaling as our user base grows (5,000+ beta signups and counting). Its Proof-of-Stake consensus ensures energy efficiency, aligning with modern demands, while partnerships with giants like Google Cloud and Microsoft signal strong institutional backing.
+Aptos built to handle the high-performance, secure, and user-focused needs of next-gen Web3 applications like AgentXYZ, where traders need precision and speed without compromise. It’s a blockchain that matches our vision to simplify and enhance trading in the DeFi space.
+
+13. Team Background. For any other founder's involved in the project, please list their full name, title, LinkedIn URL, and a brief history (age, education, work/startup experience, previous projects, etc.)
+Sarfraz Nawaz
+Title: Co-founder & CTO
+LinkedIn URL: https://www.linkedin.com/in/sarfraz-nawaz-a0074014
+Brief History: Age ~45, holds a Master’s in AI from Northwestern University. With 24 years of experience in AI and data analytics, he’s an expert in building scalable tech solutions. Previously worked on data-driven projects at various tech firms; no specific prior startups listed, but his deep technical expertise drives AgentXYZ’s AI backbone.
+
+Andy Proffitt
+Title: CMO
+LinkedIn URL: https://www.linkedin.com/in/andy-proffitt-5802b11a8/
+Brief History: Age ~40, background in business/marketing (specific education not detailed). Brings 15 years of branding and marketing experience from roles at Disney, MetisDAO, and Ink Finance. No prior startup founding experience noted, but his marketing leadership has shaped AgentXYZ’s community engagement and go-to-market strategy.
+These founders, alongside me (Ivor Viskovic, Founder & CEO, https://www.linkedin.com/in/ivor-viskovic/, 9 years in marketing from ASOS, Tele2, Script Network), form the core leadership driving AgentXYZ’s mission to revolutionize AI-powered trading in Web3.
+
+14. If you have multiple founders, how did you meet?
+I, Ivor Viskovic, met my co-founders Sarfraz Nawaz (CTO) and Andy Proffitt (CMO) through professional networks in the tech and crypto space. Sarfraz and I connected at an AI and blockchain conference where we bonded over the potential of AI in trading. Andy joined later through a mutual contact from my marketing days, impressed by our vision and eager to shape our brand. Our shared passion for simplifying Web3 trading brought us together to build AgentXYZ.
+
+15. How many projects have you worked on together?How are responsibilities divided among the founders?
+This is the first project that I, Ivor Viskovic, Sarfraz Nawaz (CTO), and Andy Proffitt (CMO) have worked on together as a founding team.
+
+Responsibilities:
+Ivor Viskovic (CEO): I oversee vision, strategy, and partnerships, steering the company’s direction and growth.
+Sarfraz Nawaz (CTO): He leads tech development, managing the AI systems, platform architecture, and engineering team.
+Andy Proffitt (CMO): He handles marketing, branding, and community engagement, driving user acquisition and outreach.
+Our roles leverage our strengths—my leadership, Sarfraz’s tech expertise, and Andy’s marketing prowess—to build AgentXYZ effectively.
+
+16. Is the founding team committed full-time to this project? If not, please explain any other commitments and how much time each founder currently spends on the project.
+I am committed full-time to this project, driving its vision and growth. Sarfraz Nawaz, our CTO, is also full-time, leading the technical development of our AI-powered platform. Andy Proffitt, our CMO, is currently part-time, dedicating approximately 20-25 hours per week to AgentXYZ due to existing consulting commitments in branding and marketing. Despite his part-time status, Andy’s focused efforts on our go-to-market strategy and community engagement ensure significant impact. We’re all aligned on prioritizing AgentXYZ, with Sarfraz and me at 100% and Andy scaling up as we grow.
+
+17. Where are the founders based?
+Ivor Viskovic (CEO): I’m based in Split, Croatia, where I’ve been working on transitioning from Web2 to Web3 projects, including AgentXYZ.
+Sarfraz Nawaz (CTO): Sarfraz is likely based in the United States, given his Master’s in AI from Northwestern University and his extensive career in tech, though he’s worked globally and could split time elsewhere.
+Andy Proffitt (CMO): Andy’s specific location isn’t pinpointed, but with 15 years of experience across companies like Disney and Web3 projects, he’s likely based in a major hub like the United States or United Kingdom, balancing his part-time role with us.
+Our company, AgentXYZ Ltd, is legally registered in the British Virgin Islands, but as a remote-first team, we operate globally, with founders primarily anchored in these regions to drive the project forward.
+
+18. Budget proposal with milestones (The grant amount is usually 10k~50k. Please set up your budget proposal with milestones and estimated completion time.)
+Milestone 1: Movemaker Blockchain Integration Initiation (25% - $12,500)
+Description: Integrate AgentXYZ’s trading platform with the Movemaker blockchain, setting up initial API connections and smart contract frameworks for seamless on-chain trading.
+Estimated Completion: Month 2 (May 30, 2025)
+Cumulative Allocation: $12,500
+Milestone 2: AI Feature Enhancement & Testing (35% - $17,500)
+Description: Enhance AI-driven trading tools (e.g., predictive analytics, TA assistant) to leverage Movemaker’s blockchain data, followed by rigorous testing for performance and security.
+Estimated Completion: Month 4 (July 30, 2025)
+Cumulative Allocation: $30,000 ($12,500 + $17,500)
+Milestone 3: Deployment & User Onboarding (40% - $20,000)
+Description: Fully deploy the integrated platform, onboard 5,000+ beta users to Movemaker’s ecosystem, and launch marketing campaigns to drive adoption.
+Estimated Completion: Month 6 (September 30, 2025)
+Cumulative Allocation: $50,000 ($30,000 + $20,000)
+
+19. Does the core team need office space support from Aptos Space (HK)?
+No, the core team does not currently need office space support from Aptos Space (HK). Our founding team—Ivor Viskovic (Croatia), Sarfraz Nawaz (likely U.S.), and Andy Proffitt (likely U.S./U.K.)—operates remotely, leveraging a distributed, global workflow that’s been effective for our Closed Beta and beyond. We’re registered in the British Virgin Islands and prioritize flexibility, with no immediate plans for a centralized office. While we appreciate the offer, our current setup supports our needs, and we’d rather allocate resources to development and user acquisition than physical space in Hong Kong at this stage.

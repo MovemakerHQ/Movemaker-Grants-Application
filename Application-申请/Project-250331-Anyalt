@@ -1,0 +1,85 @@
+## Please fill out your project details using this template and submit a PR. The naming format should be ​'Project-YYMMDD'.
+
+1. Company / Project name
+company name: Pro Innovation
+Project name: AnyAlt:The Built-In Cross-Chain Bridge for Maximizing Liquidity.
+
+2. Official Links (Website, GitHub, LinkedIn, etc.)
+https://www.anyalt.finance/
+Kenta Akutsu - CEO - https://www.linkedin.com/in/kenta-akutsu/
+Shota Takahashi - CTO - https://www.linkedin.com/in/shota-takahashi-451796215/
+Gaurav Khanna  - CPO - https://www.linkedin.com/in/gauravkhanna1/
+
+3. Your name
+Kenta Akutsu
+
+4. Email Address
+anyalt@0xlabs.tech
+
+5. Telegram or Wechat of POC
+https://t.me/+ZpGePDP2LN42Nzlk
+
+6. Which funding category are you applying for? (AI, DeFi, DePIN, Developer Education&Ecosystem, Tooling, Infrastructure, RWA, Payment, Others)
+DeFi
+
+7. Product Stage (Idea, MVP/Prototype/PoC, Business Model Validation, Early Adopters, Product Market Fit)
+MVP/Prototype/PoC
+
+8. Introduction to your project. (Please include a clear overview of what your project is and why this is something that you want to work on.)
+AnyAlt, a DeFi project that provides a built-in cross-chain bridging solution to maximize liquidity for dApps. AnyAlt allows projects to seamlessly integrate cross-chain transactions, onramps, and customizable final transactions directly into their interfaces, eliminating the need for users to navigate third-party tools or manage multiple wallets. This reduces friction, boosts user retention, and drives liquidity across networks.
+I’m passionate about working on AnyAlt because the cross-chain space is still evolving, and there’s a clear market need for a frictionless, integrated solution that empowers both users and projects. With my 11 years of experience as a blockchain entrepreneur, I see AnyAlt as a way to bridge the gap in interoperability, helping the DeFi ecosystem grow by making multi-network interactions effortless and efficient.
+
+9. What problem are you trying to solve, and why is it important?
+AnyAlt solves the problem of fragmented cross-chain interactions in DeFi, where users face friction from third-party bridges, limited transaction options, and complex wallet management. This leads to user drop-off and reduced liquidity for projects. It’s important because seamless interoperability is critical for DeFi’s growth, enabling better user experiences, higher retention, and increased liquidity across blockchain networks.
+
+10. What is your proposed solution?
+AnyAlt offers a built-in cross-chain bridging solution that allows dApps to embed seamless bridging, onramps, and customizable final transactions directly into their interfaces. By integrating these features, AnyAlt eliminates the need for users to rely on third-party tools or manage multiple wallets, enabling frictionless asset movement across networks, supporting advanced actions like NFT purchases and vault deposits, and ultimately boosting user engagement and liquidity for projects.
+
+11. Any competitions? (Does your project have direct competition or similar project on the market within or without apples ecosystem?)
+Yes, AnyAlt faces direct competition in the DeFi cross-chain bridging space. Key competitors include LI.FI and Squidrouter, which also offer cross-chain solutions. However, AnyAlt stands out with its ability to customize final transactions, supporting broader use cases like NFT purchases and vault deposits, unlike LI.FI and Squidrouter, which are limited to token swaps. Other similar projects include Synapse Protocol, Stargate, and Across Protocol, which focus on seamless bridging but lack AnyAlt’s embedded UI integration and transaction flexibility.
+
+12. Why Aptos？
+Aptos is a strong fit for AnyAlt because of its high-performance, scalable Layer 1 blockchain with low transaction costs and fast finality, which aligns with our goal of providing a seamless cross-chain experience. Its Move programming language also offers robust security, reducing risks for our bridging solution, while Aptos’ growing DeFi ecosystem presents opportunities for partnerships and adoption.
+
+13. Team Background. For any other founder's involved in the project, please list their full name, title, LinkedIn URL, and a brief history (age, education, work/startup experience, previous projects, etc.)
+I’m Kenta Akutsu, CEO of Pro Innovation and founder of AnyAlt. I’m 39, with 11 years of experience as a CEO, having successfully exited a blockchain business. I lead innovation in the Web3 space.
+
+Our other founders are:
+Shota Takahashi, CTO, LinkedIn. Age 41, senior full-stack engineer with 14+ years of experience, specializing in blockchain and decentralized systems, driving AnyAlt’s tech development.
+Gaurav Khanna, CPO, LinkedIn. Age 36, former Boston Consulting Group strategist, focuses on user-centric product strategy to align AnyAlt with market needs.
+
+14. If you have multiple founders, how did you meet?
+I, Kenta Akutsu, met Shota Takahashi through a blockchain conference in Singapore in 2019, where we bonded over our shared vision for Web3 innovation. We later connected with Gaurav Khanna in 2021 through a mutual contact at a startup incubator in Tokyo, where he was advising on product strategy, and we brought him on board to shape AnyAlt’s user-focused approach.
+
+15. How many projects have you worked on together?How are responsibilities divided among the founders?
+Three founders of AnyAlt—myself, Shota Takahashi (CTO), and Gaurav Khanna (CPO)—are working together for the first time on this project. While we haven’t collaborated on previous projects, our complementary skills and shared vision for Web3 innovation brought us together for AnyAlt.
+
+Division of Responsibilities:
+Kenta Akutsu (CEO): I oversee the overall strategy, business development, and partnerships, focusing on scaling AnyAlt’s adoption and securing funding. I also lead investor relations and guide the company’s vision.
+Shota Takahashi (CTO): Shota is responsible for all technical development, leading the engineering team, and ensuring the platform’s scalability and security. He drives the implementation of our cross-chain bridging solution and oversees the technical stack.
+Gaurav Khanna (CPO): Gaurav focuses on product strategy, user experience, and market fit. He works closely with the development team to design features, gathers user feedback, and ensures AnyAlt aligns with the needs of projects and end users.
+
+
+16. Is the founding team committed full-time to this project? If not, please explain any other commitments and how much time each founder currently spends on the project.
+The founding team of AnyAlt is fully committed to the project on a full-time basis. This includes myself, Shota Takahashi (CTO), and Gaurav Khanna (CPO). We have no other professional commitments outside of AnyAlt, as our focus is entirely on driving the success of this project. Each of us dedicates approximately 60–80 hours per week to AnyAlt, ensuring we can address the demands of building and scaling a DeFi cross-chain bridging solution. This full-time commitment allows us to prioritize rapid development, partnership building, and community engagement, which are critical at our current MVP stage.
+
+17. Where are the founders based?
+Kenta Akutsu (CEO): I am based in Singapore, where our company, Pro Innovation, is legally registered.
+Shota Takahashi (CTO): Shota is also based in Singapore, working closely with me to oversee development.
+Gaurav Khanna (CPO): Gaurav is based in Tokyo, Japan, focusing on product strategy and market alignment.
+Our team operates across these two hubs, leveraging Singapore’s blockchain-friendly environment and Tokyo’s tech ecosystem to drive AnyAlt’s growth.
+
+18. Budget proposal with milestones (The grant amount is usually 10k~50k. Please set up your budget proposal with milestones and estimated completion time.)
+Milestone 1: Integration with Movemaker Blockchain (25%, $12,500)
+AnyAlt will integrate the client’s dApp onto the Movemaker blockchain, enabling cross-chain bridging functionality.
+Estimated Completion: Month 2 (May 31, 2025)
+Milestone 2: Onramp and Transaction Customization (35%, $30,000 cumulative)
+Implement onramp support for fiat-to-crypto conversion and enable customizable final transactions (e.g., vault deposits) on Movemaker.
+Estimated Completion: Month 4 (July 31, 2025)
+Milestone 3: Testing, Deployment, and Documentation (40%, $50,000 cumulative)
+Conduct testing, deploy the solution, and provide documentation for the client to manage the integration.
+Estimated Completion: Month 6 (September 30, 2025)
+This timeline ensures we deliver a fully functional integration within the 6-month maximum timeframe, aligning with AnyAlt’s goal of seamless cross-chain solutions.
+
+19. Does the core team need office space support from Aptos Space (HK)?
+The core team of AnyAlt does not currently need office space support from Aptos Space in Hong Kong. Our founders are based in Singapore and Tokyo, and our team of 13 operates effectively in a remote and hybrid setup, leveraging digital tools for collaboration. We may consider physical space in the future as we scale, but it’s not a need at this stage.
