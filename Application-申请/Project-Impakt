@@ -1,0 +1,73 @@
+## Please fill out your project details using this template and submit a PR. The naming format should be 'Project-YYMMDD'.
+
+1. Company / Project name
+-Impakt Inc. / Impakt
+
+2. Official Links (Website, GitHub, LinkedIn, etc.)
+-Website: https://www.impakt.com/
+Linkedin: https://www.linkedin.com/company/impakt-ai/
+Discord: https://discord.com/invite/impaktai
+Telegram: https://t.me/impaktai/
+X- https://x.com/impaktofficial
+Beta Demo at:
+ios.impakt.com and android.impakt.com
+
+3. Your name
+-Winston Zin
+
+4. Email Address
+-winstonzin@impakt.com
+
+5. Telegram or Wechat of POC
+-Demideus
+
+6. Which funding category are you applying for? (AI, DeFi, DePIN, Developer Education&Ecosystem, Tooling, Infrastructure, RWA, Payment, Others)
+-AI and Infra
+
+7. Product Stage (Idea, MVP/Prototype/PoC, Business Model Validation, Early Adopters, Product Market Fit)
+-Early Adopters
+
+8. Introduction to your project. (Please include a clear overview of what your project is and why this is something that you want to work on.)
+-We’re building the Duolingo of fitness, powered by AI agents that see, instruct, and guide workouts in real-time through advanced computer vision. Fitness is gamified with interactive competitions, tournaments, and social support groups, transforming exercise into an engaging, community-driven experience.
+Our Vibe Coding SDK empowers communities to collaboratively build immersive, motion-controlled stories and experiences, laying the foundation for the Steam Network of motion control. Each project can launch its own appchain token, designed to work in harmony with our ecosystem, enabling a vibrant, interconnected creator economy.
+I'm building this out of my passion to connect people through fitness, something I dearly value and missed during the 1000+ days in lock down and social distancing.
+
+9. What problem are you trying to solve, and why is it important?
+-Contemporary technological advancements often contribute to a sedentary lifestyle, with individuals spending extended periods engaged with screens, leading to detrimental health effects associated with inactivity. Furthermore, many fitness applications fail to offer real-time feedback, limiting their ability to provide personalized guidance. In addition, these platforms often lack meaningful social interaction, which could otherwise enhance user engagement and motivation.
+
+10. What is your proposed solution?
+-Leveraging our low-code SDK, developers can seamlessly create motion-controlled games that promote physical activity while integrating blockchain-based rewards and social elements. Our advanced computer vision technology ensures real-time feedback, guiding users to perform exercises with precision and maximizing their effectiveness. By embedding these features on the Aptos blockchain, we provide a decentralized, secure platform for users to track progress, engage in tournaments, and connect with a like-minded fitness community, driving deeper user engagement and fostering a thriving Web3 fitness ecosystem.
+
+11. Any competitions? (Does your project have direct competition or similar project on the market within or without apples ecosystem?)
+-No competition
+
+12. Why Aptos？
+-At Impakt, we’re shaping the future of AI-powered motion-controlled fitness gaming, and Aptos is the perfect blockchain to bring our vision to life. Its fast, low-latency transactions make real-time AI feedback possible, while the Move programming language ensures secure and efficient smart contracts for in-game assets and rewards. Aptos' developer-friendly ecosystem allows us to seamlessly integrate NFTs, tokenized incentives, and decentralized identities, boosting user engagement. With Aptos Movemaker’s support, we can scale our platform and transform fitness on a global scale.
+
+13. Team Background. For any other founder's involved in the project, please list their full name, title, LinkedIn URL, and a brief history (age, education, work/startup experience, previous projects, etc.)
+-Winston Zin Cheng
+x.com/winston_zin
+linkedin.com/in/winstonzin.
+CEO, UC Berkeley BS EECS, Peking University MBA, 2 exits: $26M aeotec.com and $9M fantem.com.
+Hakim Bawa
+x.com/hakimbawa
+linkedin.com/in/hakimbawa.
+CTO, 1x exit, 10+ years in AI and ML and building software.
+
+14. If you have multiple founders, how did you meet?
+-We’re two founders who first met in Shenzhen while independently scaling our tech businesses in China. After successfully exiting our companies, we reconnected during the pandemic lockdowns and felt a shared drive to build something meaningful. Inspired by the need for connection and well-being, we set out to create engaging social experiences that bring people together through fitness and health.
+
+15. How many projects have you worked on together?How are responsibilities divided among the founders?
+- This is the first one. Hakim handles everything technology, and Winston handles everything related to marketing, finance, partnerships.
+
+16. Is the founding team committed full-time to this project? If not, please explain any other commitments and how much time each founder currently spends on the project.
+-Yes committed more than full-time. 80 hours a week each founder.
+
+17. Where are the founders based?
+-Shenzhen and Seoul
+
+18. Budget proposal with milestones (The grant amount is usually 10k~50k. Please set up your budget proposal with milestones and estimated completion time.)
+-$50k for the 6 month salary of a new engineer which can help integrate smart contracts and also aggregate data from fitness and movement.
+
+19. Does the core team need office space support from Aptos Space (HK)?
+-Not necessary
