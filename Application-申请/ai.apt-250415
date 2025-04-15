@@ -1,0 +1,121 @@
+## 请您根据此模板，填写您的项目资料，并提交PR。命名格式为 ‘Project-YYMMDD‘
+公司/项目名称：
+
+ai.apt
+
+2. 官方链接（网站, GitHub, LinkedIn, 等）
+
+Twitter: https://x.com/ai_apt
+Website: https://www.synaphexai.com/
+GitHub: https://github.com/MasterLHZ/ai.apt-metamove-hackathon 
+3. 您的名字
+
+Richard
+
+4. 电子邮箱
+
+ruirichardyangbusiness@gmail.com
+
+5. Telegram或微信
+
+TG: richardpaker
+
+6. 您的项目类别（如AI，DeFi，DePIN，开发者教育以及生态，工具，基础设施，RWA，支付，其他类别请说明）
+
+OpinionFi / Autonomous AI Agent
+
+7. 您的产品处于什么阶段？（如产品阶段，构思阶段，MVP/原型/概念验证，商业模式验证，开始获客，规模化与市场匹配）
+
+MVP/原型/概念验证
+
+8. 项目介绍（请清晰说明您的项目概况及为何选择开展此项目）
+
+ai.apt 是一个预测市场趋势，在DApp上分析和打分用户观点，并按照社媒影响力奖励高质量内容的去中心化On-Chain Autonomous AI Agent。它可以通过用户的“观点”进行强化学习，从而不断优化。
+
+9. 您的项目试图解决什么问题？为何解决这个问题很重要？
+
+1. 打破中心化的算法给每个人搭建的信息茧房：当信息被中心化的算法绑架，那个体就是被中心化“机器”所奴役的，而这会直接导致社会的不正义性、资源和财富的不公平分配，甚至是人权的践踏。
+2. 个体在网络上的资源、数据和财富保护：用户的“观点”在位中心化平台创造财富和价值，但现在他们不但没有权利参与平台的资源和财富的分配，更被中心化算法绑架和勒索，比如随时被盗窃的隐私数据和随时可能被封杀的个人账号（甚至导致“社会性死亡”）。
+3. 传统去中心化社交产品内容质量低、激励手段匮乏的问题：传统去中心化产品缺少一个有效的“内容监督和激励制度”导致用户往往为了获得币或空投预期而制作低质的内容
+4. 传统去中心化市场预测产品流动性低的问题：传统的市场预测项目早期因为缺乏足够多的关注度和市场影响力，以及风向敞口较高，导致往往很难吸引流动性
+5. 永久运行且公平的OpinionFi市场
+5. AI训练对高质量的数据需求与日俱增
+
+
+10. 您提出的解决方案是什么？（请根据上一个问题来回答。）
+通过ai.apt（on-chain autonomous ai agent）可以对公平、透明、自主的监督和奖励用户在去中心化平台分享的高质量内容/观点，并永久运行。
+用户在完成APT质押后可以在ai.apt的DApp上参与流行新闻或资讯或观点的评论和互动。DApp确保用户的个体主权得到保护。
+用户参与评论时，autonomous AI会随机抽取二十条评论进行评分，其中得分前17名的评论将会获得Token和APT奖励，后三位得分的评论者将从质押的APT中扣除APT和token
+用户可以通过参与点赞、转发，和评论“评论”获得由autonomous AI审查后随机的token奖励。“评论”所获得的engagement将在该评论者获胜后获得更多奖励分配的权重
+ai.apt is the first product for Synaphex AI, designed to generate structured data through AI predictions, user bets, comments, and results. This data boosts AI model training, helping create the most powerful AI Agent in the Crypto market.
+
+
+
+
+11. 竞争对手/类似产品（您的项目在Aptos生态系统内外是否有直接竞争产品或同类项目？）
+
+目前我们没有在Aptos看到 Opinion AI的项目。以下是有部分类似元素的项目：
+Fliq Predictions：https://x.com/predictonfliq
+Panana Predictions：https://x.com/panana_predict
+Kade：https://x.com/0xkade
+
+12. 为什么选择Aptos？
+
+我们选择Aptos是因为它完美契合OpinionFi AI Agent项目的核心需求。
+Aptos的高性能和超低延迟确保用户与AI Agent实时互动时流畅无阻。
+Move语言是安全和便捷的语言。
+工具如Aptos Assistant，直接对接Azure的AI技术，让我们在熟悉的 Web2 AI 开发模式下，能更快速高效地构建 On-chain AI Agent
+Aptos 的交易费用极低，几乎可以忽略，让 OpinionFi 用户能够自由参与，无需担忧成本
+
+
+13. 团队背景。请列出联合创始人的姓名、职位、领英链接及简要履历（年龄、教育背景、工作/创业经历、过往项目等）
+
+Sean: 
+一家美国人工智能公司的CEO / 创始人：两年发布多款AI产品/APP，全球累计获客超过1M；ARR收入超过$2M
+Web3项目：
+Obtimus AI（Web3 Social AI Game）: https://x.com/ObtimusAI
+AO Games（Arweave 游戏生态）：https://x.com/aogamesorg
+Synaphex AI（Web3 Social AI）：https://www.synaphexai.com/ / https://www.synaphexai.com/AIAPT
+多个Web3开发者和投资社区的Sponsor
+
+Richard
+一家美国人工智能公司的Co-Founder & Marketing Head
+实现ARR收入从$0到$2M+的增长
+全球累计获客超过1M+
+多个Web3开发者和投资社区的Sponsor
+
+Alan
+Web2连续创业者 / 产品经理
+原头部Web2社交产品副总裁（产品）
+创业公司曾获千万人民币融资
+
+14. 如果有多位创始人，请说明你们如何结识的？
+
+我们在2022年的一个创业者社区认识，因为目标和价值观一致，所以决定开始创业，目前已经共同创业3年。
+
+15. 你们共同合作过多少个项目？创始人之间如何分配职责？
+
+Web2经历：我们在过去2年共向市场投入5个AI产品，累计获得2M+注册用户，1M USD ARR收入
+Web3经历：从2022年开始共同发起和建设2个DAO社区，社区成员有来自100个国家的3500多位成员。2024年Q4开始运行一个Web3 Social AI Game，社区成员超2.9w人。
+我们三个合伙人一个负责市场和运营，一个负责产品和技术，一个负责项目设计和商务（项目设计如Roadmap、代币模型、游戏机制等）
+
+16. 创始团队是否全职投入本项目？若非全职，请说明其他事务及每位创始人当前投入项目的时间比例。
+
+全职投入。
+
+17. 创始人常驻地点？
+
+中国香港 / 新加坡
+
+18. 带里程碑的预算提案（Grant金额通常为10k~50k美元。请按里程碑和预计完成时间制定您的预算计划。）
+
+我们计划4个里程碑：
+
+April 2025：补充团队，按计划进产研 —— 20k Grant
+May 2025：主网上线 — 10k Grant
+June 2025完成以下四个条件中的三个：X人数超过5k+，社区人数3k+，验证玩家人数2k+，质押人数1k+ ——10k Grant
+Q3 2025完成以下四个条件中的三个：X人数20k+，社区人数20k+，验证玩家人数10k+，质押人数5k+ —— 10k Grant
+
+19. 核心团队是否需要Aptos Space（香港）的办公空间支持？
+
+不需要
