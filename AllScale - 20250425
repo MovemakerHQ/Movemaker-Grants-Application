@@ -1,0 +1,82 @@
+```markdown
+# AllScale Grant Application
+
+## 1. Company / Project Name
+**AllScale**
+
+## 2. Official Links
+- Website: [https://www.allscale.io/](https://www.allscale.io/)
+
+## 3. Your Name
+**Shawn Pang**
+
+## 4. Email Address
+**shawn@allscale.io**
+
+## 5. Telegram or WeChat of POC
+- WeChat: `shunxinpang`
+- Telegram: [t.me/withshawn](https://t.me/withshawn)
+
+## 6. Funding Category
+**Payment**
+
+## 7. Product Stage
+**Early Adopters**
+
+## 8. Introduction to Your Project
+AllScale is a next-generation neobank empowering small businesses to scale globally faster with stablecoin.
+
+## 9. Problem Statement
+More and more businesses prefer—or even only accept—stablecoin, especially in the gig and creator economies. Influencers, freelancers, and contractors want to get paid in stablecoin, but traditional businesses lack a safe, fast, low-cost, and compliant way to handle it.
+
+## 10. Proposed Solution
+- **Payroll:** Automate cross-border payroll in stablecoins—simplify contractor payments, eliminate costly intermediaries, and ensure instant global delivery.
+- **Invoicing:** Create, e-sign, and send professional contracts and invoices in seconds. Get paid by clients in their preferred method and instantly receive stablecoin—maximizing liquidity, minimizing friction.
+
+We abstract away the complexity: payment aggregation, on/off ramp, KYC/KYB/AML, and business logic all happen under the hood.
+
+## 11. Competitions
+- Rise
+- Request Finance
+- BitWage
+
+**Our Edge:** We are the only ones focused specifically on solving the needs of traditional small businesses.
+
+## 12. Why Aptos?
+- **Scalability:** High throughput, low fees, fast settlement
+- **Stablecoin Support:** Native USDT, USDC, USDe—no bridging required
+- **Interoperability:** CCTP, LayerZero, Wormhole for seamless cross-chain transfers
+- **Security & Dev Tools:** Move language for asset safety; strong dev ecosystem
+- **Institutional Adoption:** Partnerships with Stripe, Microsoft, SK Telecom; Expo 2025 wallet integration
+- **Yield & Liquidity:** Multiple stablecoin options; robust DeFi protocols and yield opportunities
+
+## 13. Team Background
+- **Shawn Pang (CEO):** Former PM @ TikTok Ads & Capital One; founded HashMatrix; Ivey BBA/CS.
+- **Leo Wang (COO):** Ex-lead @ PingCAP, Amazon, Scotiabank; founded UWHub & Hibiki Run; University of Toronto CE.
+- **Alisha Li (CMO):** Partner @ Fenghou & HePing Capital; ex-Sales Director @ HP, Dell, Sun; serial entrepreneur backed by Innovation Works.
+- **Jianfei Chen (CTO):** Ex-team lead @ Cermate; PM @ Cisco & HP; founded Ruoogle; SJTU CS.
+
+## 14. How Did the Founders Meet?
+We’ve all worked together on the same clients over the past two years. Alisha previously invested in Leo's startup.
+
+## 15. Projects Worked on Together & Role Division
+Multiple project collaborations on UWH and HashMatrix
+Shawn: strategy and growth
+Leo: channel and operations
+Alisha: Enterprise Key Accounts
+Tom: product
+
+## 16. Founding Team Commitment
+**Yes** — everyone is working on AllScale full-time.
+
+## 17. Founders' Locations
+**San Francisco** and **Vancouver**.
+
+## 18. Budget Proposal with Milestones
+- **$10K:** Kick-start the project
+- **$20K:** Complete pay-in & payout for payroll on Aptos
+- **$20K:** Enable users to deploy received payments into DeFi yield protocols on Aptos
+
+## 19. Office Space Support
+**Yes** — we would need office space support from Aptos Space (HK).
+```
