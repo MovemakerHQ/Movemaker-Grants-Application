@@ -1,0 +1,83 @@
+1. Company / Project name
+Easterbit - AI-powered search engine for move contracts
+
+2. Official Links (Website, GitHub, LinkedIn, etc.)
+https://easterbit.com/ 
+
+3. Your name
+Vlad
+
+4. Email Address
+vladislavkors@gmail.com
+
+5. Telegram or Wechat of POC
+@north03
+
+6. Which funding category are you applying for? (AI, DeFi, DePIN, Developer Education&Ecosystem, Tooling, Infrastructure, RWA, Payment, Others)
+AI, Security, Tooling
+
+7. Product Stage (Idea, MVP/Prototype/PoC, Business Model Validation, Early Adopters, Product Market Fit)
+MVP
+
+8. Introduction to your project. (Please include a clear overview of what your project is and why this is something that you want to work on.)
+I'm building an AI-powered search engine for Move code on Aptos (with multi-chain expansion planned) and passionate about making blockchain transparent and more secure.
+
+9. What problem are you trying to solve, and why is it important?
+Smart contract vulnerabilities, such as overflows or reentrancy bugs, pose significant risks to blockchain projects, 
+leading to financial losses and eroded trust. Current tools, like blockchain explorers, only provide access to public code or 
+bytecode, requiring manual decompilation and analysis, which is time-consuming and limited to individual contracts. 
+This inefficiency hinders developers’ ability to audit, learn from, or verify code at scale. 
+Solving this is crucial for enhancing blockchain security, enabling faster development, and ensuring safer dApps.
+
+10. What is your proposed solution?
+We are building a specialized AI-powered search engine that scans and indexes all Move-based smart contracts on the Aptos blockchain. 
+The platform allows users to search for code patterns, functions, or vulnerabilities across the entire network. 
+Future features include vectorization of code for semantic searches (e.g., “show functions with overflow”), 
+tagging of potentially dangerous functions, and automated analysis to identify connections and risks. 
+This will streamline auditing, enable code reuse, and support the creation of AI agents trained on contract data for advanced use cases.
+
+11. Any competitions? (Does your project have direct competition or similar project on the market within or without apples ecosystem?)
+The primary competitors are blockchain explorers, which provide access to public code or bytecode but lack advanced search capabilities. 
+These tools require manual decompilation and analysis, limiting their scope to single contracts. 
+Our solution stands out by offering network-wide search, AI-driven analysis, and future vectorized search capabilities, 
+making it significantly more efficient and scalable for developers and auditors.
+
+12. Why Aptos？
+Aptos is an ideal fit due to its use of the Move programming language, which emphasizes security and scalability, 
+aligning with our goal of enhancing transparency
+
+13. Team Background. For any other founder's involved in the project, please list their full name, title, LinkedIn URL, and a brief history (age, education, work/startup experience, previous projects, etc.)
+Vlad, https://www.linkedin.com/in/vladislavkors/ 
+I worked on different projects, like materialme.io, sellpal.xyz(onchain-marketplace for digital goods) and other. 
+My stack is Rust, Python, TS/JS, React, Tailwind.
+
+14. If you have multiple founders, how did you meet?
+-
+
+15. How many projects have you worked on together?How are responsibilities divided among the founders?
+-
+
+16. Is the founding team committed full-time to this project? If not, please explain any other commitments and how much time each founder currently spends on the project.
+Yes
+
+17. Where are the founders based?
+Russia
+
+18. Budget proposal with milestones (The grant amount is usually 10k~50k. Please set up your budget proposal with milestones and estimated completion time.)
+Milestone 1: AI Search and Tagging (3-4 months, $25,000)
+ - Invite 1 core developers
+ - Complete scanning and indexing of all Move-based smart contracts on the Aptos blockchain.
+ - Develop a basic search interface for querying contracts by function or keyword.
+ - Implement AI-driven search with vectorization for semantic queries (e.g., “find functions with overflow”).
+ - Tag potentially vulnerable functions and build a basic analysis dashboard.
+Milestone 2: Automation and Community Integration (1-3 months, $10,000)
+ - Develop automated analysis tools to identify code connections and risks.
+ - Integrate community feedback features and open-source select backend components for Aptos community collaboration.
+
+Development and infrastructure: $35,000
+AI model training and data storage: $5,000
+Testing and community engagement: $5,000
+Unforeseen Expenses: $5,000
+
+19. Does the core team need office space support from Aptos Space (HK)?
+No (at this time, we can work remotely)
