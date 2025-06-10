@@ -1,21 +1,67 @@
 ## Please fill out your project details using this template and submit a PR. The naming format should be ​'Project-YYMMDD'.
 
-1. Company / Project name
-2. Official Links (Website, GitHub, LinkedIn, etc.)
-3. Your name
-4. Email Address
-5. Telegram or Wechat of POC
-6. Which funding category are you applying for? (AI, DeFi, DePIN, Developer Education&Ecosystem, Tooling, Infrastructure, RWA, Payment, Others)
-7. Product Stage (Idea, MVP/Prototype/PoC, Business Model Validation, Early Adopters, Product Market Fit)
-8. Introduction to your project. (Please include a clear overview of what your project is and why this is something that you want to work on.)
-9. What problem are you trying to solve, and why is it important?
-10. What is your proposed solution?
-11. Any competitions? (Does your project have direct competition or similar project on the market within or without apples ecosystem?)
-12. Why Aptos？
-13. Team Background. For any other founder's involved in the project, please list their full name, title, LinkedIn URL, and a brief history (age, education, work/startup experience, previous projects, etc.)
-14. If you have multiple founders, how did you meet?
-15. How many projects have you worked on together?How are responsibilities divided among the founders?
-16. Is the founding team committed full-time to this project? If not, please explain any other commitments and how much time each founder currently spends on the project.
-17. Where are the founders based?
-18. Budget proposal with milestones (The grant amount is usually 10k~50k. Please set up your budget proposal with milestones and estimated completion time.)
-19. Does the core team need office space support from Aptos Space (HK)?
+1. FlipVault
+2. https://www.flipvault.io
+https://www.x.com/flipvault
+https://www.linkedin.com/company/flipvault
+3. Marc Ryan
+4. marc@flipvault.io
+5. Telegram: @sirmackus
+6. DeFi, Gaming, SocialFi
+7. Initial product launch, ~10k transactions in first 2 weeks
+8. FlipVault is a peer-to-peer digital asset trading platform inspired by the barter mechanics of games like RuneScape. We enable users to swap NFTs and cryptocurrencies—soon cross-chain—in real time through live, social trading rooms or offline proposals. What sets FlipVault apart is our focus on trust, interaction, and accessibility in trading—users chat, negotiate, and trade directly with others in a gamified environment. As gamers and crypto-natives ourselves, we’ve experienced the friction of fragmented marketplaces, static interfaces, and insecure trading. FlipVault was born out of a desire to bring the joy and spontaneity of in-game trading to the broader digital asset ecosystem while solving for security, liquidity, and cross-chain inefficiencies.
+9. The digital asset trading landscape is fragmented, impersonal, and siloed by chain and asset type. NFT marketplaces, crypto exchanges, and in-game economies operate in isolation—making it difficult for users to swap assets flexibly or securely across ecosystems. Existing platforms lack real-time negotiation, trust-building features, and seamless cross-chain functionality, forcing users to rely on risky OTC trades or complex bridging solutions.
+10. FlipVault solves this by enabling peer-to-peer barter-style swaps for NFTs and crypto—across chains—with live interaction, decentralized escrow, and a simple UI. In doing so, we make digital trading feel intuitive, social, and secure—critical for onboarding the next wave of Web3 users.
+11. Yes, FlipVault’s closest competitors include NFT marketplaces like OpenSea, Magic Eden, and crypto OTC platforms like Squid and Uniswap OTC. However, these platforms focus on single-asset, uni-directional trades and lack real-time interactivity, cross-chain flexibility, or social negotiation features. FlipVault differentiates by offering live, peer-to-peer barter swaps (NFT ↔ NFT, NFT ↔ crypto, or crypto ↔ crypto) across chains with chat-based negotiation and escrow—mimicking the engaging trading dynamics of games like RuneScape while solving cross-chain friction in a trustless, secure way.
+12. We chose Aptos for its high throughput, low fees, and developer-friendly Move language, which allows us to build a fast, secure, and scalable trading experience. FlipVault requires real-time responsiveness for live peer-to-peer swaps, and Aptos delivers on that with sub-second finality. The ecosystem is also growing rapidly in the Web3 gaming space, aligning with our target market. Additionally, the Aptos team has been highly supportive through grants and community engagement, making it an ideal settlement layer for cross-chain trading infrastructure.
+13. Marc Ryan – Co-Founder & CEO
+https://www.linkedin.com/in/marc-ryan/
+Age: 25
+Education: Vanderbilt University (B.A., Math, Economics, 3.8 GPA)
+Background: Former tech investment banker at HSBC covering software and fintech. Previously founded and scaled an NFT project, with deep experience in crypto investing, startup fundraising, and Web3 product strategy.
+Paul van Mierlo – Co-Founder & CTO
+https://www.linkedin.com/in/paul-van-mierlo-063b9417a/
+Age: 26
+Education: Strategic Management background with self-taught full-stack blockchain development
+Background: 8x hackathon winner across ecosystems like Aptos, Starknet, and Ethereum. Built a Tornado Cash-style mixer on Starknet, a payments tool that became a finalist in the Aptos Social Track, and has led development for multiple DeFi and NFT dApps.
+14. Paul and Marc met during an Aptos accelerator week event in NYC. They shared a common vision and decided to join forces.
+15. We have worked on an RWA project as well. Marc focused on business development, strategy, growth, and operations, while Paul focused on anything development-related.
+16. Yes both founders are fully committed to the project.
+17. NYC and Amsterdam
+18. Total Grant Requested: $50,000
+Timeline: 3 months
+
+Milestone 1 – $20,000 (Month 1)
+Goal: Begin development of cross-chain architecture for NFTs and crypto swaps
+
+Design and scope full cross-chain settlement framework using Aptos as the finality layer
+
+Integrate wallet connection flows for multiple chains (starting with Solana, Ethereum, and Polygon)
+
+Deploy test environment with cross-chain NFT trade simulation
+Deliverable: Internal devnet demo of NFT swap across 2 chains with Aptos escrow
+
+Milestone 2 – $10,000 (Month 2)
+Goal: Expand cross-chain support and begin building P2P crypto swap functionality
+
+Complete NFT swap functionality across Solana, Ethereum, and Aptos
+
+Build out initial UI for crypto swap marketplace (listing, fulfillment, escrow)
+Deliverable: Working NFT cross-chain swaps on testnet + early access to crypto swap frontend
+
+Milestone 3 – $10,000 (Month 2.5)
+Goal: Launch full crypto swap flow on testnet
+
+Enable users to post cross-chain crypto swap offers
+
+Enable fulfillment via escrow with 0.5% protocol fee
+Deliverable: P2P crypto swap MVP on testnet across Solana, Ethereum, and Aptos
+
+Milestone 4 – $10,000 (Month 3)
+Goal: Launch on mainnet and track KPIs
+
+Deploy cross-chain NFT and crypto swap functionalities on Aptos mainnet
+
+Add analytics dashboard to track KPIs: active wallets, swap volume, user retention
+Deliverable: Mainnet release of NFT & crypto cross-chain swaps with metrics dashboard
+19. Does the core team need office space support from Aptos Space (HK)? No
