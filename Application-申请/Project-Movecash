@@ -1,0 +1,129 @@
+1. 公司/项目名称
+  Movecash
+
+3. 官方链接（网站, GitHub, LinkedIn, 等）
+  网站: [movecash.top](https://movecash.top/)
+  Github : [Movecash](https://github.com/movecash-top)
+  X : [Movecash](https://x.com/movecashtop)
+
+4. 您的名字
+  wikig
+
+5. 电子邮箱
+  carzyg@outlook.com
+
+6. Telegram或微信
+  Telegram : @wikig16
+  Wechat : @carzygodswechat
+
+7. 您的项目类别（如AI，DeFi，DePIN，开发者教育以及生态，工具，基础设施，RWA，支付，其他类别请说明）
+  Payfi，基础设施，支付
+
+8. 您的产品处于什么阶段？（如产品阶段，构思阶段，MVP/原型/概念验证，商业模式验证，开始获客，规模化与市场匹配）
+  商业模式验证阶段
+
+9. 项目介绍（请清晰说明您的项目概况及为何选择开展此项目）
+  Movecash 是一套以Aptos加密预付卡为核心的加密付款、收单解决方案。
+  核心可以分为两大部分：
+  - Movecash Card
+  	Movecash Card旨在向用户提供便捷的Aptos预付卡开卡方案。以向用户提供虚拟卡服务为基础，提供如下附属服务：
+  	1.Cardfi . 开放式的合约接口及其SDK，允许三方DEFI服务集成，以组合构建如 ：DEFI借贷卡、Farming质押卡等复合卡型业务，满足加密用户多元的金融及流动性需求，允许用户在不放弃APT所有权的场景下消费法币，或许可用户持有APT进行POS业务的同时实时结算法币消费。
+  	2.Telegram Miniapp / Telegram Bot 卡管理终端。提供更具灵活性与用户粘性的卡管理、充值方案。
+  - Movecash Payment
+  	Movecash Pay旨在向商户用户、开发者提供易用的Aptos支付结算方案，同时打通crypto => fiat提供法币收单加密提款服务。同时以兼容性支付为主，许可用户支付任意链任意代币，并实时结算为Aptos上的资产（APT或稳定币）为商户量化收单提供体系化服务。
+  	同时向商户提供安全收单服务，通过前置mixer的方案来隔绝商户收到受标记资产的风险。
+
+9. 您的项目试图解决什么问题？为何解决这个问题很重要？
+  核心为了解决两个问题：
+  1).Aptos链有足够高的TPS和各种即将推出的feature，但是Defi生态却比较保守。
+  2).缺少Payfi生态并且没有成熟的发卡服务。
+
+10. 您提出的解决方案是什么？（请根据上一个问题来回答。）
+  1).通过提供开卡服务及复合卡型产品、SDK等基于加密预付卡的服务，来实现在现有的Defi体系下构建法币桥梁、消费端下游。来为原有的DEFI体系提供更多实用性及可组合型。进而后续配合Aptos链上feature实现一些其他链做不到的服务（比如onchain定时任务等）
+  2).提供配套的支付体系服务，并且拓展支持多链收单，统一结算到Aptos。在增加流动性的同时，使用mixer解决方案降低收单风险。并且支持法币收单体系，进一步拓宽法币<=>加密桥梁。
+
+11. 竞争对手/类似产品（您的项目在Aptos生态系统内外是否有直接竞争产品或同类项目？）
+  目前在Movecash Card的发卡生态上，目前并未看到有Aptos生态内的直接竞品或同类产品。生态外有Solcard/Dupay/infini等产品，但是传统的U卡服务缺少DEFI可组合性，并且大部分以全资金托管为主，难以解决用户信任问题，同时面临资安风险。
+  而在Movecash Pay的生态位上，有AptosPay作为同类竞品。但AptosPay过于局限于Aptos Onchain Payment，具有过强的局限性，并且没有办法提供有效的被标记资金的资安隔绝、管理。
+
+12. 为什么选择Aptos？
+  目前Aptos有较高的TPS以及后续潜在可能推出的链上定时行为等链层feature，但是缺少payfi生态，并且目前没有看到相对成熟的Aptos为基础的加密预付卡。
+
+14. 团队背景。请列出联合创始人的姓名、职位、领英链接及简要履历（年龄、教育背景、工作/创业经历、过往项目等）
+  Wikig
+  详见Linktree : https://linktr.ee/wikig16
+  七年互联网、加密从业经验
+  Helium硬件供应商品牌Piscesminer的cofunder
+  Tonsprotocol社区funder
+
+  团队成员：
+  0xC
+  Helium硬件供应商品牌Piscesminer的cofunder
+  5年Crypto市场marketing经验
+
+  Alex
+  5年互联网从业经验
+  熟悉Evm生态，并作为solidity多年开发者
+  3年前端开发经验
+
+15. 如果有多位创始人，请说明你们如何结识的？
+  NA
+
+16. 你们共同合作过多少个项目？创始人之间如何分配职责？
+  NA
+
+17. 创始团队是否全职投入本项目？若非全职，请说明其他事务及每位创始人当前投入项目的时间比例。
+  全职
+
+18. 创始人常驻地点？
+  中国-杭州
+  中国-香港
+  中国-深圳
+  核心技术团队在杭州
+  合作关系及BD在HK及深圳
+
+19. 带里程碑的预算提案（Grant金额通常为10k~50k美元。请按里程碑和预计完成时间制定您的预算计划。）
+  Total Grant : 40k
+
+  2025 Q3 , 10k
+  完成Movecash加密预付卡体系构建。包含:
+  1.主网站
+  2.Dashboard卡申请、管理、充值
+  3.Telegram Miniapp & Telegram BOT 移动端、BOT端入口
+  4.TS-SDK 卡包接入、卡型管理、卡充值SDK
+  5.Onchain-Contract-Interface DEFI复合形卡服务
+  预期达成：
+  1. 5K 月活用户。
+  2. 500K $ 的APT流动性锁定。300K $的稳定币资产锁定
+  3. 1K 新DEFI流动性用户。
+  
+  2025 Q3 , 20K
+  Movecash 加密预付卡marketing。包含：
+  1.媒体合作
+  2.to B 协议集成 [eg : Aptin Labs , AAVE等借贷协议]
+  3.新媒体KOL渠道宣发
+  预期达成：
+  1.跟Lending / Farming 类型的协议各两家大型协议达成服务集成，协助对应协议构建法币资产下游。
+  2.为Aptos生态提供优质的加密衍生品、现货交易所的下游免税消费渠道，虹吸更多的合规中心化交易所交易者到链上交易，以规避部分国家的加密税。
+  3.为B/C端用户群构建 “链上储蓄卡” 的认知与配套生态，实现吸纳更多的链外资金储蓄至Aptos生息，并为Aptos的Stablecoin Eco提供协议用例。
+  
+  2025 Q4 ， 7K
+  Movecash Aptos payment 加密结算、收单体系构建。包含
+  1.Onchain payment & callback 对标 [https://tonspay.top/]
+  2.Developer SDK & SDK . 对标 [https://docs.tonspay.top/develop/restful-api-interface]
+  3.法币收单，Aptos链上偿付、结算
+  预期达成：
+  1.为Aptos提供更高的CoinEx流动性，通过支付收单协议的方案虹吸多链支付资产跨到Aptos上。
+  2.作为基础的Payfi金融组件寂寞，将Aptos流动性无缝镶嵌进Web3支付体系，并集成商户出金体系。
+  
+  2025 Q4 ， 3K
+  Movecash Aptos payment 开发者社群hackathon 。 包含
+  1.商业集成、关系合作 1K
+  2.开发者社群Movecash Card SDK Move集成Winner Price ： 0.5K 0.5K
+  3.开发者社群Movecash Payment SDK 集成案例 Winner Price  : 0.5k 0.5K
+  预期达成：
+  1.构建Web3跨境商户体系的范式以及优秀集成案例，为Aptos提供链外流动洗。
+  2.吸纳更多的中小型商户，帮助他们将更多的链外流动洗以支付方案的形式虹吸至Aptos。
+
+19. 核心团队是否需要Aptos Space（香港）的办公空间支持？
+  需要，正在考虑组建HK本土团队。并且依托HK做合规化银联卡BIN业务。
