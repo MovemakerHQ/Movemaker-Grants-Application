@@ -1,0 +1,182 @@
+1\. 公司/项目名称  
+Company / Project name  
+\- R2 Protocol
+
+2\. 官方链接（网站, GitHub, LinkedIn, 等）
+
+Official Links (Website, GitHub, LinkedIn, etc.)  
+\- Web: [https://www.r2.money/](https://www.r2.money/) 
+
+\- X : [https://x.com/r2yield](https://x.com/r2yield) 
+
+\- Gitbook：https://r2money.gitbook.io/r2
+
+3\. 您的名字
+
+​​Your name
+
+\- Ruby
+
+4\. 电子邮箱
+
+Email Address
+
+\- [ruby@r2.money](mailto:ruby@r2.money)
+
+5\. Telegram或微信
+
+Telegram or Wechat of POC
+
+\- Telegram: @Rubydddddd
+
+6\. 您的项目类别（如AI，DeFi，DePIN，开发者教育以及生态，工具，基础设施，RWA，支付，其他类别请说明）
+
+Which funding category are you applying for? (AI, DeFi, DePIN, Developer Education\&Ecosystem, Tooling, Infrastructure, RWA, Payment, Others)
+
+\-  Infrastructure, RWA, Payment
+
+7\. 您的产品处于什么阶段？（如产品阶段，构思阶段，MVP/原型/概念验证，商业模式验证，开始获客，规模化与市场匹配）
+
+Product Stage (Idea, MVP/Prototype/PoC, Business Model Validation, Early Adopters, Product Market Fit)
+
+\- Final Testnet
+
+8\. 项目介绍（请清晰说明您的项目概况及为何选择开展此项目）
+
+Introduction to your project. (Please include a clear overview of what your project is and why this is something that you want to work on.)
+
+\- **We built R2USD to combine real-world yield from tradefi with the transparency, efficiency, and global accessibility of DeFi. Our goal is to offer users a permissionless yield medium that is simple, composable, and globally available.**
+
+**R2USD is backed by tokenized real-world assets from licensed issuers across multiple regions, including Superstate and Ondo (US), Digift (Singapore), Spiko and Fasanara (Europe), and Mercado Bitcoin (LatAm), we are now the official LPs of Superstate, Ondo and DigiFT, in the process of onboarding others.**
+
+**We also integrate with DeFi protocols like Morpho and Pendle to offer enhanced yield strategies on-chain.**
+
+**We’ve received strong support and endorsements from ecosystems like Arbitrum, Plume, and Monad. They’ve provided meaningful help across GTM, exposure, and integration, and we’re currently discussing liquidity partnerships with them**
+
+**We are also supported by Wormhole, which not providing the liquidity but also helps us expand R2USD across multiple blockchain ecosystems cross chain functions.**
+
+**R2USD is highly composable and can easily integrate with CEXs, wallets, and traditional funds. This makes it flexible enough to support both DeFi-native use cases and institutional adoption.**
+
+**Users can exit through two paths:**
+
+1. **Official redemption with T+0 liquidity and guaranteed base APY**  
+2. **Secondary market exit with potential upside depending on timing**
+
+**Minting is open to anyone with USDC or USDT. There is no KYC, no whitelist, and everything is fully on-chain**
+
+**R2USD bridges regulated yield with open access. It’s a modular, yield-focused stablecoin built for the next wave of global capital.**
+
+9\. 您的项目试图解决什么问题？为何解决这个问题很重要？
+
+What problem are you trying to solve, and why is it important?
+
+\- Yield bearing stablecoins lack strong fundamentals, with potential loss of value under market scrutiny. Onchain RWAs can be the collateral needed for stable coins. However, they are in the hands of a few players and KYB barriers are high on time and money, creating a friction to RWA exposure in a massive way.
+
+10\. 您提出的解决方案是什么？（请根据上一个问题来回答。）
+
+What is your proposed solution?
+
+\- R2USD solves by collateraling its pegged to Institutional grade tokenized RWAs. R2 diversified financial risk via asset diversification and curation in their own basket strategies. Yield is sourced from these strategies (5-10% pure RWA yield) and obtained by staking R2USD. Reaching both institutional and retail investors, sR2USD is a composable LST that allows bridging real sourced yield into DeFi native environments such as Lending or DEX protocols for yield boost. Yield is later on obtained through yield distribution and redemption mechanism set by R2. 
+
+This product design and structure solves DeFi composability from RWA assets, Yield distributions, and Value pegging through legitimate and curated assets onchain.
+
+11\. 竞争对手/类似产品（您的项目在Aptos生态系统内外是否有直接竞争产品或同类项目？）
+
+Any competitions? (Does your project have direct competition or similar project on the market within or without apples ecosystem?)
+
+For a yield bearing stablecoin, the targeted problems are mapping risks, selecting the right collateral type, sourcing the yield, and distributing the yield to users, while maintaining the peg value against the risks associated with the product composition of the stablecoin itself. The strategy on each will be tailored to retail or institutions, but it falls into one or the other. We saw a lack of a fundamental standard for yield bearing stablecoins
+
+* Direct competitors are other yield bearing stablecoins: DeFi Native (OUSD, CAP), RWA Backed (USDY, USDM), Synthetic/Algorithmic (USDe, USDf). While indirect competitors monetize on demand and transaction fees: Fiat Backed (USDC, USDT). We don't count crypto collateralized stables as competitors due to the high volatility on the underlying assets plus no APY.  
+* Through R2USD we cover 3 main risk kinds common among the yield bearing classes: issuer risk (interest rate fluctuations, USDM and USDY), smart contract risk (platform dependency, OUSD), and Depeg Risk (Loss of Confidence, USDe and USDf). We distribute issuer risk through diversifying onchain tokenized RWA strategies (T-Bills, MMFs, Private Credit/Loans), smart contract risk through having a fundamental yield purely on RWA assets (5-10% APY) and tapping into different DeFi strategies on top of fundamentals (Morpho, Pendle, Curve, Aave, etc), and depegging risk by adjusting RWA vaults based on sharp ratios, APY, and user demand (financial and legal engineering)  
+* With on-chain RWA fundamentals, we detach from centralization and Custody risk (USDT, USDC) in regards to the underlying assets backing R2USD, while RWA assets also help to avoid liquidation and high volatility from crypto (DAI). 
+
+
+12\. 为什么选择Aptos？
+
+Why Aptos？
+
+\- Move language: Move is built for asset safety which ideal for stablecoins and tokenized assets. Besides, this can support further composability towards further integration with Moved language protocols and ecosystems in the later future, being Aptos a catalyst to it.
+
+\- Novel Case: fewer stablecoins \= more visibility and adoption opportunities for R2USD. For TVL and incentive on boosted yield, it can create a great channel for r2 to source liquidity and a great value proposition for the Aptos ecosystem and community to tap into tokenized asset in DeFi
+
+\- Strategic Ecosystem Fit: It is easier to become a “default stablecoin” in certain protocols. Aptos needs stable rails like R2USD for:
+
+* Lending/borrowing  
+* DEX trading pairs  
+* On/off-ramping of RWAs
+
+\-Scalability and Efficiency: R2USD won’t face gas spikes or congestion in peak times due to the Aptos chain latency and infra. This will support ideally use cases like: 
+
+* Payments & Micro-transactions  
+* Yield protocols
+
+13\. 团队背景。请列出联合创始人的姓名、职位、领英链接及简要履历（年龄、教育背景、工作/创业经历、过往项目等）
+
+Team Background. For any other founder's involved in the project, please list their full name, title, LinkedIn URL, and a brief history (age, education, work/startup experience, previous projects, etc.)
+
+\-Jeffrey Yang (Co-Founder & CEO)  
+With 7+ years in crypto, Jeff has been a serial Founder & CMO with previous experience at Lumoz, ZKFair & ZKSwap 
+
+Twitter: [https://x.com/Jeffthedogyo](https://x.com/Jeffthedogyo)   
+Linkedin : [https://www.linkedin.com/in/jeff3010/](https://www.linkedin.com/in/jeff3010/) 
+
+Alvaro Fernandez (Co-Founder & COO)  
+With 8+ years in crypto, Alvaro is a strategy expert with previous experience at Lumoz, NSure, JRR Capital and more.  
+Linkedin : https://www.linkedin.com/in/alvaro-fernandez-576b3489/
+
+Enzzo Cusihuaman (Co-Founder & CBO)  
+With 4+ years in crypto, he is a BD lord with previous experience at Lumoz, Binance (BSC) & IOTA  
+Linkedin : https://www.linkedin.com/in/enzzo-cusihuaman-205266106/
+
+14\. 如果有多位创始人，请说明你们如何结识的？
+
+ If you have multiple founders, how did you meet?
+
+\- Previously worked together in Lumoz, a former startup where Jeff was one of the co-founders.
+
+More details check: https://www.rootdata.com/Projects/detail/R2%2520Protocol?k=MTYzNDY=
+
+15\. 你们共同合作过多少个项目？创始人之间如何分配职责？
+
+How many projects have you worked on together?How are responsibilities divided among the founders?
+
+We worked together on 2 projects before. Product and Operations is done by Alvaro, Marketing and Tech is done by Jeff, and BD & Partnerships is done by Enzzo
+
+16\. 创始团队是否全职投入本项目？若非全职，请说明其他事务及每位创始人当前投入项目的时间比例。
+
+Is the founding team committed full-time to this project? If not, please explain any other commitments and how much time each founder currently spends on the project.
+
+\-  The founding team committed full-time to this project. 24\*7.
+
+17\. 创始人常驻地点？
+
+Where are the founders based?
+
+\- Bangkok, Thailand
+
+18\. 带里程碑的预算提案（Grant金额通常为10k\~50k美元。请按里程碑和预计完成时间制定您的预算计划。）
+
+Budget proposal with milestones (The grant amount is usually 10k\~50k. Please set up your budget proposal with milestones and estimated completion time.)
+
+**Unlock 0:** 10k as Initial Capital 
+
+**Unlock 1**: 15k as initial capital to build on top of Aptos
+
+Goal 1 : Building R2USD on Aptos
+
+\- Tech and product development on the Aptos Testnet and preparing launch to mainnet 
+
+\- Growth Community and GTM: Involvement in the Aptos ecosystem and participation with the foundation in different activities. Besides, share testnet data of users in Aptos using the testnet.
+
+**Unlock 2**: 15k as capital to go LIVE on Aptos
+
+Goal 2: launch R2USD live on the Aptos Mainnet and take it to market as one of the ecosystems supporting R2USD.
+
+**Unlock 3:** 10k as to drive DAU in Aptos
+
+Goal 3: have at least 1000 DAU during the first 3 months LIVE and add TVL from Aptos and to Aptos via our interoperability mechanics. 
+
+19\. 核心团队是否需要Aptos Space（香港）的办公空间支持？
+
+Does the core team need office space support from Aptos Space (HK)?  
+\- Yes
