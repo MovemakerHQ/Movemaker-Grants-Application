@@ -1,0 +1,81 @@
+
+Rena-250813
+
+1. Company / Project name
+Rena Labs
+
+2. Official Links (Website, GitHub, LinkedIn, etc.)
+renalabs.xyz
+Insider.cash  
+
+3. Your name
+Alex Ge
+
+4. Email Address
+gg@renalabs.xyz 
+
+5. Telegram or Wechat of POC
+TG: gghusky00
+
+6. Which funding category are you applying for? (AI, DeFi, DePIN, Developer 
+Education&Ecosystem, Tooling, Infrastructure, RWA, Payment, Others)
+AI & Infrastructure 
+
+7. Product Stage (Idea, MVP/Prototype/PoC, Business Model Validation, Early Adopters, Product Market Fit)
+Early Adopters
+
+8. Introduction to your project. (Please include a clear overview of what your project is and why this is something that you want to work on.)
+
+Rena labs is building a TEE data infrastructure, and it has a product named Insider Cash. 
+Insider Cash is a market-making integrity dashboard built on Rena’s TEE Data Exchange Room, ensuring token integrity and long-term sustainability. It enables token issuers to monitor real-time liquidity provision by contracted market makers, including the detection of potential abnormal activities, within a verifiable and confidential environment.
+
+9. What problem are you trying to solve, and why is it important?
+Market making transparency. 
+If no one is monitoring the market makers, then the foundation and founders will suffer from suspicious trading all the time. And it is very bad for token holders and the ecosystem. As for good market makers, it is also very hard for them to prove their integrity comparing with the bad market makers. 
+
+10. What is your proposed solution?
+We are building our data infra with TEE, and produce an integrity dashboard for foundations. It can monitor the market makers’ trading behaviors by AI models. All the trading data will be contributed by the CEX API directly and the analysis is run in TEE. Nobody has the access to review the raw data. Founders can understand if the market makers are doing something wrong, or good market makers can prove their integrity without leaking raw data. 
+
+11. Any competitions? (Does your project have direct competition or similar project on the market within or without apples ecosystem?)
+Coinwatch Glassmarkets 
+But they are in advisory rather than AI model solutions, and they are not building in Aptos ecosystem. 
+
+12. Why Aptos？
+Our engineers and core team members are working in move languages since 2022, we understand the advantage of Move languages. And Aptos is one of the biggest Move eco around the world. We are native in move languages. 
+
+13. Team Background. For any other founder's involved in the project, please list their full name, title, LinkedIn URL, and a brief history (age, education, work/startup experience, previous projects, etc.)
+
+https://www.linkedin.com/in/alexpfg/ 
+Alex G: Former IBD at CICC. Founding BD at X2Y2. Consumer Investment Lead at Foresight Ventures. Co-founder of EZswap, which raised two funding rounds and listed token in CEXs.
+
+https://www.linkedin.com/in/conan-y-7535851a5/ 
+Conan Y: Swarthmore CS & Economics dropout. Previously part of former Y Combinator China W22 cohort (Dino). Former Co-founder of Rooch Network (Move Layer2), which raised $3M.
+
+14. If you have multiple founders, how did you meet?
+We are introed by a mutual friend years ago, and Conan ever invited Alex to build on top of its ecosystem before. Then we did a lot of side projects together, and it went very well. Thus, we decided to co-found Rena. 
+
+15. How many projects have you worked on together?How are responsibilities divided among the founders?
+4 Side projects before, and now only working on Rena. 
+Alex is charging in BD & Growth, and Conan is charging in Tech & Product. 
+
+16. Is the founding team committed full-time to this project? If not, please explain any other commitments and how much time each founder currently spends on the project.
+Yes
+
+17. Where are the founders based?
+Alex is based in London, and Conan is based in NYC. 
+
+18. Budget proposal with milestones (The grant amount is usually 10k~50k. Please set up your budget proposal with milestones and estimated completion time.)
+Budget: 50K USDC
+
+Milestone1: Model Finish - 20K USDC 
+Finish the model and ready to provide it to all the aptos ecosystem projects if they provide their trading data. 
+
+Milestone2: $Aptos Report - 20K USDC
+Run the AI model for $Aptos and produce a trading behavior report for $Aptos. It helps Aptos ecosystem and foundation get more transparency in market making. 
+
+Milestone3: TEE On-chain Attestation in Aptos - 10k USDC 
+We allow our users to produce the TEE on-chain attestation, and we can code it by move language. 
+
+
+19. Does the core team need office space support from Aptos Space (HK)?
+No, but Alex is going to travel to HK sometimes, and may need 1 place to meet more Aptos ecosystem project and somewhere in HK to host some side events. 
