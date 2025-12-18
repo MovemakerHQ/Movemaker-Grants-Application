@@ -1,21 +1,67 @@
-## Please fill out your project details using this template and submit a PR. The naming format should be ​'Project-YYMMDD'.
+PingoPond-25.12.18
 
-1. Company / Project name
-2. Official Links (Website, GitHub, LinkedIn, etc.)
-3. Your name
-4. Email Address
-5. Telegram or Wechat of POC
-6. Which funding category are you applying for? (AI, DeFi, DePIN, Developer Education&Ecosystem, Tooling, Infrastructure, RWA, Payment, Others)
-7. Product Stage (Idea, MVP/Prototype/PoC, Business Model Validation, Early Adopters, Product Market Fit)
-8. Introduction to your project. (Please include a clear overview of what your project is and why this is something that you want to work on.)
-9. What problem are you trying to solve, and why is it important?
-10. What is your proposed solution?
-11. Any competitions? (Does your project have direct competition or similar project on the market within or without apples ecosystem?)
-12. Why Aptos？
-13. Team Background. For any other founder's involved in the project, please list their full name, title, LinkedIn URL, and a brief history (age, education, work/startup experience, previous projects, etc.)
-14. If you have multiple founders, how did you meet?
-15. How many projects have you worked on together?How are responsibilities divided among the founders?
-16. Is the founding team committed full-time to this project? If not, please explain any other commitments and how much time each founder currently spends on the project.
-17. Where are the founders based?
-18. Budget proposal with milestones (The grant amount is usually 10k~50k. Please set up your budget proposal with milestones and estimated completion time.)
-19. Does the core team need office space support from Aptos Space (HK)?
+1. PingoPond
+2. Platform - https://app.pingopond.com/campaigns, X - https://x.com/PingoPond 
+3. Aleksandr Kopytich / Roman Kalita
+4. pingopond@icloud.com
+5. Telegram: @produmanni / @normanlitka
+6. Early Adopters / MVP (live product; Neura AI module is under active development and is the top priority).
+7. Early Adopters / MVP
+8. PingoPond is a fully on-chain platform on Aptos that automates content campaigns end-to-end—from launch and submission collection to transparent reward distribution via pre-funded on-chain prize pools.​
+By combining on-chain execution with AI-driven evaluation and analytics, PingoPond reduces operational overhead, improves fairness, and helps ecosystem projects scale growth programs.​
+The product is modular, built around Vanta, Fluxa, Zypher, Neura, and Kaida.
+9. Traditional content contests and creator campaigns are fragmented and heavily manual: collecting submissions, verifying originality, evaluating results, gathering wallets, distributing rewards, and compiling post-campaign analytics.​
+This creates delays, increases costs, reduces trust in outcomes, and limits scalability for growth teams.​
+The ecosystem needs repeatable, transparent, measurable on-chain infrastructure to run campaigns that drive verifiable user activity.
+10. PingoPond consolidates the entire campaign lifecycle into a single on-chain workflow powered by Aptos smart contracts.​
+Vanta: campaign creation and automation, publishing campaigns on-chain and managing the lifecycle end-to-end.​
+Fluxa: organic traffic through gamified daily on-chain interactions (e.g., GM streaks and events).​
+Zypher: tokenized points and leaderboards where points and transfers are represented on-chain to maximize transparency.​
+Neura: AI-driven submission evaluation and campaign optimization (in development; top priority).​
+Kaida: private community spaces for ambassador/community programs with automation and analytics.​
+11. PingoPond competes with off-chain creator/campaign tools and quest platforms that rely on Web2 forms/Discord workflows and manual or semi-manual evaluation and payouts.​
+PingoPond’s differentiation is end-to-end on-chain execution (transparency and instant distribution), on-chain points/leaderboards, and a modular architecture (Vanta/Fluxa/Zypher/Neura/Kaida) that supports multiple program types.
+12. PingoPond is built entirely on Aptos, with core modules implemented via smart contracts and on-chain interactions across campaign publishing, participation, tracking, and reward distribution.​
+Fluxa and Zypher are designed to stimulate measurable on-chain activity through streak-based interactions and tokenized points mechanics.​
+Deeper integration is supported by a proof of concept developed in the Aptos Assembly program to further enhance the platform’s utility for campaign organizers, creators, and the ecosystem.
+13. Aleksandr Kopytich (Twitter link), 24 years old, holds a higher education degree in management and education. Originally from Belarus. He has extensive experience in community operations and product management. He is the founder of Penguin Chronicles, one of the leading NFT collections on Aptos. Roman Kalita, 34 years old, originally from Russia. He has a technical background in software development. He has substantial experience in software engineering and in leading development teams, as well as a strong track record of working at large companies.
+14. We met through a local Aptos community. Aleksandr initially approached Roman in his capacity as a developer to support the early-stage development of PingoPond. This collaboration subsequently evolved into a full-scale project.
+15. This is the first project we are working on together. Roman is responsible for engineering and verbal networking. Aleksandr is responsible for business development, external relationships, and community. In broad terms, Roman assumes the CEO & CTO role, while Aleksandr assumes the CMO, CGO, and CCO roles.
+16. Aleksandr is fully dedicated to the project on a daily basis. Roman is additionally employed as a developer at another company, but is preparing to shift his priorities toward PingoPond.
+17. Aleksandr is based in Belarus; Roman is based in Russia.
+18. $50,000. 
+As part of the Aptos Assembly program, in which we participated but did not receive financial support, we developed a proof of concept (PoC) on top of the layer we had already implemented. This PoC is focused on deeper Aptos on-chain integration, and we require financial support specifically to deliver it.
+
+We break the work down into the following phases:
+
+3–4 weeks:
+
+Campaigns with NFT prize pools (UI configuration and basic handling of NFT rewards)
+Improved points logic (more flexible rules, early-participation bonuses, and a clearer scoring model)
+User profile page including points, badges, and a basic portfolio section
+Platform UI refresh and UX improvements across core user flows (GM, campaigns, profile)
+
+1–2 months:
+
+Smart contract support to store core campaign data and prize pool configuration on Aptos
+Smart contracts and user flows for on-chain reward claims from prize pools
+Tokenization of points on Aptos, including basic on-chain transfer and score update logic
+NFT badge system for milestones (first GM, first campaign, wins, streaks, etc.)
+Expanded portfolio view within the profile, including past campaigns and submitted work
+On-platform referral system tracking invited users and their activity
+Telegram bot for campaign and results notifications
+Discord bot for campaign and results notifications
+
+Later:
+
+Neura integration as the core optimization and scoring engine for campaigns and reputation
+Paid subscription plans for users and organizers
+TGE execution
+*However, we do not want to include this phase as part of the grant conditions. Neura development and integration requires separate funding and support, and while the TGE will certainly take place, we do not want to commit to specific timelines at this stage.
+
+Cost breakdown:
+$3,000 per month for core team costs
+$2,000 per month for additional staffing (part-time outsourced designer, additional developer, community manager, and an ambassador team)
+$1,000 per month for organizing our own campaigns and events
+$1,000 per year for tools, services, and data
+19. No.
