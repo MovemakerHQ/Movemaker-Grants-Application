@@ -1,0 +1,222 @@
+## 1. Project Overview
+
+Quantir is a DeFi and on-chain risk intelligence platform that helps protocols, infrastructure teams, wallets, funds, and ecosystem operators monitor blockchain activity and detect abnormal risk conditions.
+
+The platform collects live on-chain and protocol data, normalizes signals across supported networks, calculates risk scores, and generates structured alerts with human-readable explanations. Quantir is designed to provide actionable monitoring through dashboards, APIs, WebSocket streams, and alerting workflows.
+
+For Aptos, we propose to build an Aptos-specific risk intelligence layer for DeFi, RWA, payments, and infrastructure applications. The goal is to help Aptos builders detect liquidity stress, transaction anomalies, protocol health issues, market stress, integration risks, and abnormal ecosystem activity through explainable alerts and developer-facing integrations.
+
+## 2. Problem
+
+Aptos has a growing Move-based ecosystem with strong potential across DeFi, payments, RWA, infrastructure, and consumer applications. As activity grows, builders need better operational visibility into what is happening across protocols, liquidity flows, transactions, bridges, and application-level integrations.
+
+Many existing tools provide raw blockchain data, explorers, or historical dashboards. These are useful, but they do not always answer the operational questions teams need in real time:
+
+What changed?
+Why does it matter?
+Is this abnormal?
+Where should the team investigate first?
+How severe is the risk?
+
+This creates a gap between on-chain activity and operational response. Protocols, wallets, infrastructure teams, funds, and ecosystem operators need structured, explainable, machine-readable risk alerts rather than only raw data.
+
+## 3. Solution
+
+Quantir will build an Aptos-specific monitoring and alerting module that turns public and opt-in ecosystem signals into structured risk intelligence.
+
+The module will include:
+
+- Aptos data-source mapping.
+- Move ecosystem risk taxonomy.
+- Normalized signal schema.
+- Structured alert schema.
+- Aptos monitoring adapter prototype.
+- Risk scoring and explanation logic.
+- At least 5 Aptos-specific alert categories.
+- At least 10 sample alert scenarios.
+- Reference dashboard or API/WebSocket consumer.
+- Developer documentation and setup guide.
+
+Alerts will include severity, risk score, reason codes, evidence fields, and human-readable explanations. Outputs can be consumed through dashboards, APIs, WebSocket streams, bots, and internal monitoring workflows.
+
+## 4. Why Aptos and Movemaker
+
+Aptos is one of the most important Move-based ecosystems, with strong infrastructure and growing opportunities in DeFi, payments, RWA, tooling, and consumer finance. The Move ecosystem needs dedicated monitoring infrastructure that understands the technical and operational differences of Aptos instead of treating it as just another EVM chain.
+
+Movemaker is especially relevant because it supports sustainable Aptos ecosystem development with a focus on AI, DeFi, DePIN, Developer Education & Ecosystem, Tooling, Infrastructure, RWA, and Payments. Quantir fits this mission as infrastructure and tooling for Aptos builders.
+
+We also understand that Movemaker prioritizes Chinese-speaking regions and localized project development. As part of this proposal, Quantir will include a China/Asia ecosystem roadmap focused on localized documentation, feedback collection, and potential partnerships with Aptos builders serving Chinese-speaking markets.
+
+## 5. China / Asia Market Roadmap
+
+Quantir will support Movemaker’s localization goals through the following plan:
+
+- Prepare a Chinese-language summary of the Aptos risk intelligence module.
+- Create localized developer-facing documentation summary for Chinese-speaking builders.
+- Collect feedback from Aptos Chinese-speaking community members and developers where possible.
+- Identify 2-3 Aptos DeFi, RWA, payments, or infrastructure teams in Chinese-speaking markets that may benefit from risk monitoring.
+- Participate in Movemaker ecosystem calls, community channels, or feedback sessions if invited.
+- Publish bilingual progress summaries if required by Movemaker.
+
+This roadmap will help Quantir become more relevant to the Aptos builder community that Movemaker is focused on supporting.
+
+## 6. Milestones and Budget
+
+Total requested funding: 45,000 USD equivalent
+
+### Milestone 1: Aptos Research, Signal Taxonomy, and Architecture
+
+Timeline: 3 weeks  
+Budget: 12,000 USD equivalent
+
+Deliverables:
+
+- Aptos ecosystem data-source map.
+- Move ecosystem risk taxonomy.
+- Initial alert categories.
+- JSON schema for normalized signals and risk alerts.
+- Technical architecture document.
+- China/Asia localization plan.
+
+### Milestone 2: Monitoring Prototype and Explainable Alerts
+
+Timeline: 5 weeks  
+Budget: 22,000 USD equivalent
+
+Deliverables:
+
+- Aptos monitoring adapter prototype.
+- Normalized signal ingestion.
+- Risk scoring prototype.
+- Explainable alert generation logic.
+- At least 5 alert categories implemented in sample form.
+- At least 10 sample alert scenarios.
+- Unit or integration tests for core alert generation logic.
+
+### Milestone 3: Reference Dashboard / API and Localization Materials
+
+Timeline: 3 weeks  
+Budget: 11,000 USD equivalent
+
+Deliverables:
+
+- Reference dashboard or API/WebSocket consumer.
+- Developer documentation.
+- Setup guide.
+- Chinese-language project summary.
+- Final technical report.
+- Ecosystem feedback summary.
+- Public repository updates where appropriate.
+
+Total duration: approximately 11 weeks.
+
+## 7. Success Metrics
+
+Success will be measured by the completion and usability of the Aptos-specific deliverables.
+
+Target metrics:
+
+- 1 working Aptos monitoring adapter prototype.
+- At least 5 documented risk alert categories.
+- At least 10 sample alert scenarios.
+- JSON schema for normalized signals and structured alerts.
+- Reference dashboard or API/WebSocket consumer.
+- Developer documentation and setup guide.
+- Chinese-language project summary.
+- Feedback collected from at least 1-2 Aptos ecosystem builders or community reviewers.
+- Final report delivered with next-step recommendations.
+
+## 8. Technical Approach
+
+Quantir will use a modular architecture for the Aptos integration.
+
+The technical approach includes:
+
+- Researching public Aptos ecosystem data sources.
+- Mapping relevant DeFi, RWA, payments, and infrastructure signals.
+- Designing normalized signal and alert schemas.
+- Building an Aptos adapter for selected public or opt-in signals.
+- Implementing risk scoring and explainable alert logic.
+- Delivering sample alerts and validation scenarios.
+- Providing API/WebSocket or dashboard-facing examples.
+- Publishing documentation for developers and reviewers.
+
+The first version will focus on monitoring and alerting. It will not custody user funds, request private keys, execute transactions, or modify protocol contracts.
+
+## 9. Open Source Plan
+
+Grant-funded schemas, documentation, sample alerts, and selected adapter components will be published openly where appropriate.
+
+Quantir’s hosted infrastructure and commercial services may remain separate, but the grant deliverables will be designed to be transparent, reusable, and useful for Aptos ecosystem builders.
+
+## 10. Business Model
+
+Quantir’s long-term business model is based on B2B monitoring, API access, dashboards, custom risk reporting, hosted alerting workflows, and enterprise integrations for protocols, funds, wallets, infrastructure teams, and ecosystem operators.
+
+The grant will help Quantir build the Aptos-specific module and validate the initial use cases. Over time, the Aptos integration can be maintained as part of Quantir’s broader multichain risk intelligence platform.
+
+## 11. Team
+
+Quantir is a three-person technical team building DeFi and on-chain risk intelligence infrastructure.
+
+### Ilya Berdar — Founder / Project Lead / Senior Blockchain Developer
+
+Responsible for product architecture, blockchain integrations, technical direction, grant communication, and milestone delivery.
+
+LinkedIn: https://www.linkedin.com/in/ilya-berdar-6063a11b6/  
+X: https://x.com/ZeroDelt0
+
+### Andriy Boichuk — Senior Software Developer
+
+Focused on backend architecture, service reliability, data processing, monitoring adapters, infrastructure, testing, and deployment workflows.
+
+LinkedIn: https://www.linkedin.com/in/andriy-boichuk-519291b/
+
+### Alex Grishenko — Senior Software Developer
+
+Focused on integrations, data workflows, dashboard-facing systems, alert schemas, documentation, validation examples, and developer-facing materials.
+
+LinkedIn: https://www.linkedin.com/in/alex-grishenko-66167b62/
+
+## 12. Relevant Links
+
+Website: https://landing.quantirintelligence.com/
+
+App: https://app.quantirintelligence.com/
+
+GitHub: https://github.com/quantirintelligence/quantir-risk-engine
+
+Project X: https://x.com/QuantirSentinel
+
+Founder X: https://x.com/ZeroDelt0
+
+Contact email: founder@quantirintelligence.com
+
+Telegram: @Gamzatel
+
+## 13. Current Product Status
+
+Quantir is already an active DeFi and on-chain risk intelligence platform with live collectors, transaction monitoring, protocol snapshots, normalized risk scoring, alert delivery, API/WebSocket interfaces, and explainability services.
+
+The broader Quantir platform supports monitoring across 11 protocols and 3 chains. The Aptos-specific module is proposed as the focus of this grant.
+
+## 14. Risk Management
+
+Potential risk: Aptos ecosystem data sources may not be standardized.  
+Mitigation: We will begin with public and documented data sources, then extend through opt-in integrations.
+
+Potential risk: Early alert logic may produce false positives.  
+Mitigation: We will use transparent reason codes, evidence fields, validation scenarios, and documentation.
+
+Potential risk: Scope expansion.  
+Mitigation: The first version will focus on the Aptos adapter, risk taxonomy, alert schema, sample alerts, documentation, and a reference consumer.
+
+Potential risk: Localization quality.  
+Mitigation: We will start with concise Chinese-language summaries and seek feedback from Chinese-speaking Aptos community members where possible.
+
+## 15. Contact
+
+Ilya Berdar  
+Founder / Project Lead  
+Email: founder@quantirintelligence.com  
+Telegram: @Gamzatel
